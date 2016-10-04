@@ -1,0 +1,21 @@
+date: February 1, 2011 3:30pm
+speaker: Niles Johnson
+speaker-url: http://www.nilesjohnson.net/
+institution: University of Georgia
+institution-url: http://www.math.uga.edu/
+title: Complex Orientations and p-typicality
+abstract: This talk will describe computational results related to the structure of
+  power operations on complex oriented cohomology theories (localized at a prime $p$),
+  making use of the amazing connection between complex orientations and the theory
+  of formal group laws. After introducing the relevant concepts, we will describe
+  results from joint work with Justin Noel showing that, for primes $p$ less than
+  or equal to 13, orientations factoring non-trivially through the Brown-Peterson
+  spectrum cannot carry power operations, and thus cannot provide $MU_{(p)}$-algebra
+  structure. This implies, for example, that if E is a Landweber exact $MU_{(p)}$-ring
+  whose associated formal group law is $p$-typical of positive height, then the canonical
+  map $\mathrm{MU}_{(p)} \to E$ is not a map of $H_\infty$ ring spectra. It immediately
+  follows that the standard $p$-typical orientations on $\mathrm{BP}$, $E(n)$, and
+  $E_n$ do not rigidify to maps of $E_\infty$ ring spectra. We conjecture that similar
+  results hold for all primes.
+location: CH240
+photograph: niles-johnson.jpg

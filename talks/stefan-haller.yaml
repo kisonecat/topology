@@ -1,0 +1,22 @@
+speaker: Stefan Haller
+speaker-url: http://www.mat.univie.ac.at/~stefan/
+institution: University of Vienna
+institution-url: http://plone.mat.univie.ac.at/
+date: September 4, 2012 3:00pm
+location: CH240
+photograph: stefan-haller.jpg
+title: Commutators of diffeomorphisms
+abstract: Suppose $M$ is a smooth manifold and let $G$ denote the connected component
+  of the identity in the group of all compactly supported diffeomorphisms of $M$.
+  It has been known for quite some time that the group $G$ is simple, i.e. has no
+  non-trivial normal subgroups. Consequently, $G$ is a perfect group, i.e. each element
+  $g$ of $G$ can be written as a product of commutators, $$g=[h_1,k_1]\circ\cdots\circ[h_N,k_N].$$
+  Actually, all available proofs (Herman, Mather, Epstein, Thurston) for the simplicity
+  of $G$ first establish perfectness; it is then rather easy to conclude that $G$
+  has to be simple.\nIn the talk I will discuss a new, more elementary, proof for
+  the perfectness of the group $G$. This approach also shows that the factors $h_i$
+  and $k_i$ in the presentation above can be chosen to depend smoothly on $g$. Moreover,
+  it leads to new estimates for the number of commutators necessary. If $g$ is sufficiently
+  close to the identity, then $N=4$ commutators are sufficient; for certain manifolds
+  (e.g. mapping tori) even $N=3$ will do.\nThis talk is based on joint work with T.
+  Rybicki and J. Teichmann.

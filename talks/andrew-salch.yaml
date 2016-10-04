@@ -1,0 +1,35 @@
+speaker: Andrew Salch
+location: CH240
+speaker-url: http://math.wayne.edu/~asalch/
+institution: Wayne State University
+institution-url: http://www.clas.wayne.edu/math/
+title: Chromatic convergence and its discontents
+abstract: ' The chromatic convergence theorem of Ravenel and Hopkins asserts that,
+  if $X$ is a $p$-local finite spectrum, then the homotopy limit $\text{holim}_n L_{E(n)}(X)$
+  of the localizations of $X$ at each of the Johnson-Wilson $E$-theories $E(n)$ is
+  homotopy-equivalent to $X$ itself. One way of seeing the chromatic convergence theorem
+  is by regarding the functor sending a spectrum $X$ to $\text{holim}_n L_{E(n)}(X)$
+  as a kind of completion, "chromatic completion," which has the agreeable property
+  that $p$-local finite spectra are all already chromatic complete. Then there are
+  two natural questions:\n1. Given a (not necessarily finite) spectrum $X$, is there
+  a criterion that lets us decide easily whether $X$ is chromatically complete or
+  not?\n2. Given a nonclassical setting for homotopy theory, such as equivariant spectra
+  or motivic spectra, what analogue of the chromatic convergence theorem might hold?\nWe
+  give an answers to each of these two questions. For a symmetric monoidal stable
+  model category $C$ satisfying some reasonable hypotheses, we produce a natural notion
+  of "chromatic completion," as well as the notion of a "chromatic cover," a commutative
+  monoid object which shares important properties with the complex cobordism spectrum
+  $MU$ from classical stable homotopy theory. We show that, if a chromatic cover exists
+  in $C$, then any object $X$ satisfying Serre''s condition $S_n$ for any $n$ is chromatically
+  complete if and only if the microlocal cohomology of $X$ vanishes. (Of course we
+  have to define Serre''s condition $S_n$ as well as microlocal cohomology in this
+  context!)\nWe get two important corollaries: first, by computing some microlocal
+  cohomology groups, we find that large classes of non-finite classical spectra are
+  not chromatically complete, such as the connective spectra $ku$ and $BP\langle n
+  \rangle$ for all finite $n$. We also get some non-chromatic-completeness results
+  for $\text{ko}$, $\text{tmf}$, and $\text{taf}$. Second, we get conditions under
+  which a chromatic completion theorem can hold for motivic and equivariant spectra:
+  one needs a chromatic cover to exist in those categories of spectra. We identify
+  a candidate for such a chromatic cover for motivic spectra over $\text{Spec}\, C$,
+  assuming the Dugger-Isaksen nilpotence conjecture.'
+date: April 30, 2013 3:00pm

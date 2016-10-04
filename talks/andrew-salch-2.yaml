@@ -1,0 +1,28 @@
+speaker: Andrew Salch
+location: CH240
+speaker-url: http://math.wayne.edu/~asalch/
+institution: Wayne State University
+institution-url: http://www.clas.wayne.edu/math/
+title: The May spectral sequence for topological Hochschild homology
+abstract: I give the construction of a "THH-May spectral sequence" which takes as
+  input the topological Hochschild homology of the "associated graded ring spectrum"
+  of a filtration of a ring spectrum by "ring spectrum ideals," and which outputs
+  THH of the original ring spectrum. The construction of this spectral sequence turns
+  out to be quite nontrivial and involves some new ideas.\nI describe in general terms
+  how this spectral sequence looks for THH(K(F_q)), the topological Hochschild homology
+  of the K-theory spectrum of certain finite fields; the detailed computation of the
+  spectral sequence (computation of the differentials, etc.) is quite nontrivial,
+  and is the topic of G. Angelini-Knoll's talk this same week (on Thursday). I also
+  describe, in general terms, how this spectral sequence looks for THH of a connective
+  model for the K(2)-local sphere, which involves new work of Bruner and Rognes on
+  THH of the spectrum of topological modular forms.\nThese two THH computations are
+  the input one needs for a trace method computation of the topological cyclic homology
+  of connective models for the K(1)-local and K(2)-local sphere spectrum, which by
+  a theorem of C. Ogle on the Goodwillie derivative of algebraic K-theory of ring
+  spectra, computes the (relative) algebraic K-groups of these connective models for
+  the K(1)-local and K(2)-local sphere spectrum. These are the first two presently-unknown
+  lines in the Gersten spectral sequence E_1-term for the sphere spectrum; the computation
+  of this Gersten spectral sequence is an old problem posed by Waldhausen. I will
+  describe this point of view and its relationship to higher Chow groups and algebraic
+  cycles in ring spectra.\nThis project is joint work with C. Ogle and G. Angelini-Knoll.
+date: February 16, 2016 3:00pm

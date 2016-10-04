@@ -1,0 +1,10 @@
+extends ../layouts/main
+include ../layouts/talk
+
+block content
+ div#future
+   each talk in talks.filter( function(talk) { return talk.date > Date.now(); } )
+       +talk(talk)
+ div#past
+   each talk in talks.filter( function(talk) { return talk.date <= Date.now(); } )
+     +talk(talk)     

@@ -1,0 +1,8 @@
+date: May 17, 2011 1:00pm
+speaker: Stacy Hoehn
+speaker-url: http://www.math.vanderbilt.edu/people/hoehn
+institution: Vanderbilt University
+institution-url: http://www.vanderbilt.edu/math/home
+title:  Obstructions to Fibering Maps
+abstract:  Given a fibration p, we can ask when p is fiber homotopy equivalent to a topological fiber bundle with compact manifold fibers; assuming that the fibration p does admit a compact bundle structure, we can also ask to classify all such bundle structures on p.  Similarly, given a map f between compact manifolds, we can ask when f is homotopic to a topological fiber bundle with compact manifold fibers, and assuming that the map f does fiber, we can ask to classify all of the different ways to fiber f.    In this talk, we will begin by describing the space of all compact bundle structures on a fibration, which is nonempty if and only if p admits a compact bundle structure.   We will then show that, as long as we are willing to stabilize by crossing with a disk, the obstructions to stably fibering a map f are related to the space of bundle structures on the fibration p associated to f.
+location: CH240

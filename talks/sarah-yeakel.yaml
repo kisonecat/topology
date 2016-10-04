@@ -1,0 +1,9 @@
+speaker: Sarah Yeakel
+photograph: sarah-yeakel.jpg
+speaker-url: http://www.math.illinois.edu/~yeakel2/index.html
+institution: UIUC
+institution-url: http://www.math.uiuc.edu
+title: A chain rule for Goodwillie calculus
+abstract: In the homotopy calculus of functors, Goodwillie defines a way of assigning a Taylor tower of polynomial functors to a homotopy functor and identifies the homogeneous pieces as being classified by certain spectra, called the derivatives of the functor. Michael Ching showed that the derivatives of the identity functor of spaces form an operad, and Arone and Ching developed a chain rule for composable functors. We will review these results and show that through a slight modification to the definition of derivative, we have found a more straight forward chain rule for endofunctors of spaces.
+date: October 27, 2015 3pm
+location: CH240

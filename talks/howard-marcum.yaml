@@ -1,0 +1,33 @@
+date: February 8, 2011 3:30pm
+speaker: Howard Marcum
+speaker-url: http://www.math.ohio-state.edu/people/marcum/view
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+title: Hopf invariants in $W$-topology
+abstract: "  Let ${\\mathcal{T}\\hspace{-0.3ex}op}_{\\ast}$ denote the 2-category
+  of based topological spaces, base point preserving continuous maps, and based track
+  classes of based homotopies. Let $W$ be a fixed space or spectrum and consider the
+  2-functor on ${\\mathcal{T}\\hspace{-0.3ex}op}_{\\ast}$ obtained by taking the smash
+  product with $W$. The categorical full image of this functor is a 2-category denoted
+  $W{\\mathcal{T}\\hspace{-0.3ex}op}_{\\ast}$ and  called the <em>$W$-topology category</em>.
+  For $W$ a space the study of $W$-topology was initiated by Hardie, Marcum and Oda
+  [1]. Of course $W$-topology and stable homotopy theory, while related, are distinct.\\nIn
+  the associated $W$-homotopy category the $W$-homotopy groups $\\pi_{r}^W (X)$ have
+  long been recognized as rather significant (but in other notation of course). For
+  example, Barratt (1955) studied  $\\pi_{n}^W (S^{n})$ for $W=S^1 \\cup_p e^2$  Toda
+  (1963) considered  the <em>suspension order</em> of a complex  $Y_k$ having the
+  same homology as the $(n-1)$-fold suspension $\\Sigma^{n-1} P^{2k}$ of the real
+  projective $2k$-space $P^{2k}$, namely the order of the identity class of $\\pi_{1}^W
+  (S^{1})$ when $W=Y_k$. \\nIn [1] some non-trivial elements in $W$-homotopy groups
+  were detected by making use of $W$-Hopf invariants. This talk focuses on a general
+  proceedure for introducing Hopf invariants into $W$-topology. As an application,
+  when  $W$ is a mod $p$ Moore space, namely  $W=S^1 \\cup_p e^2$, we show that it
+  is possible to detect elements in $\\pi_{r+1}^W (\\Omega S^{m+1})$  which have connection
+  with known stable periodic families of the homotopy groups of  spheres. In particular
+  we prove nontriviality in $\\pi_{r+1}^W (\\Omega S^{m+1})$ of elements related to
+  families discovered by Gray (1984) (for $p$ an odd prime) and by Oda (1976) (for
+  $p=2$). This represents joint work with K.&nbsp;Hardie and N.&nbsp;Oda. \\n[1] K.
+  Hardie, H. Marcum and N. Oda, <em>The Whitehead products and powers in $W$-topology</em>,
+  Proc. Amer. Math. Soc. <b>131</b> (2003), 941&ndash;951."
+location: CH240
+photograph: howard-marcum.jpg

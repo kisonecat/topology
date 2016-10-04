@@ -1,0 +1,27 @@
+speaker: John E. Harper
+photograph: john-harper.jpg
+speaker-url: http://math.osu.edu/~harper.903/
+institution: The Ohio State University
+institution-url: https://math.osu.edu/
+title: Derived Koszul duality and TQ-homology completion
+abstract: 'Consider a flavor of structured ring spectra that can be described as algebras
+  over an operad O in spectra. A natural question to ask is when the fundamental adjunction
+  comparing O-algebra spectra with coalgebra spectra over the associated Koszul dual
+  comonad K can be modified to turn it into an equivalence of homotopy theories. In
+  a paper published in 2012, Francis and Gaitsgory conjecture that replacing O-algebras
+  with the full subcategory of homotopy pro-nilpotent O-algebras will do the trick.
+  In joint with Kathryn Hess we show that every 0-connected O-algebra is homotopy
+  pro-nilpotent; i.e. is the homotopy limit of a tower of nilpotent O-algebras.\nThis
+  talk will describe recent work, joint with Michael Ching, that resolves in the affirmative
+  the 0-connected case of the Francis-Gaitsgory conjecture; that replacing O-algebras
+  with 0-connected O-algebras turns the fundamental adjunction into an equivalence
+  of homotopy theories. This can be thought of as a spectral algebra analog of the
+  fundamental work of Quillen and Sullivan on the rational homotopy theory of spaces,
+  the subsequent work of Goerss and Mandell on the p-adic homotopy theory of spaces,
+  and the work of Mandell on integral cochains and homotopy type. Corollaries include
+  the following: (i) 0-connected O-algebra spectra are weakly equivalent if and only
+  if their TQ-homology spectra are weakly equivalent as derived K-coalgebras, and
+  (ii) if a K-coalgebra spectrum is 0-connected and cofibrant, then it comes from
+  the TQ-homology spectrum of an O-algebra.'
+date: March 24, 2015 3:00pm
+location: CH240

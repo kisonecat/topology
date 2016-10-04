@@ -1,0 +1,19 @@
+speaker: Luis A. Pereira
+photograph: luis-pereira.jpg
+speaker-url: http://www.faculty.virginia.edu/luisalex/
+institution: University of Virginia
+institution-url: http://www.math.virginia.edu
+title: Calculus of algebras over a spectral operad
+abstract: 'The overall goal of this talk is to apply the theory of Goodwillie calculus
+  to the category $\mathrm{Alg}_O$ of algebras over a spectral operad. Its first part
+  will deal with generalizing many of the original results of Goodwillie so that they
+  apply to a larger class of model categories and hence be applicable to $\mathrm{Alg}_O$.
+  The second part will apply that generalized theory to the $\mathrm{Alg}_O$ categories.
+  The main results here are: an understanding of finitary homogeneous functors between
+  such categories; identifying the Taylor tower of the identity in those categories;
+  showing that finitary n-excisive functors can not distinguish between $\mathrm{Alg}_O$
+  and $\mathrm{Alg}_{O \leq n}$, the category of algebras over the truncated $O \neq
+  n$; and a weak form of the chain rule between such algebra categories, analogous
+  to the one studied by Arone and Ching in the case of Spaces and Spectra.'
+date: November 18, 2014 3:00pm
+location: CH240

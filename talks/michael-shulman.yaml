@@ -1,0 +1,9 @@
+speaker: Michael Shulman
+photograph: michael-shulman.jpg
+speaker-url: http://home.sandiego.edu/~shulman/
+institution: University of San Diego
+institution-url: http://www.sandiego.edu
+title: Spectral sequences in homotopy type theory
+abstract: I will describe a method for constructing spectral sequences in homotopy type theory, including ones of Leray-Serre-type and Atiyah-Hirzebruch-type and possibly others.  This provides a good test case to discuss ways in which homotopy theory in type theory is similar to and different from classical algebraic topology.  I will mention some potential applications, both inside type theory and outside of it (by way of categorical semantics).  No prior knowledge of homotopy type theory will be necessary.
+date: January 13, 2015 3:00pm
+location: CH240

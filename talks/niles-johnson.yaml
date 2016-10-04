@@ -1,0 +1,9 @@
+date: October 9, 2012 3:00pm
+speaker: Niles Johnson
+speaker-url: http://www.nilesjohnson.net/
+institution: The Ohio State University, Newark
+institution-url: http://www.math.osu.edu/
+title: Ecological Niche Topology
+abstract: The ecological niche of a species is the set of environmental conditions under which a population of that species persists.  This is often thought of as a subset of "environment space" -- a Euclidean space with axes labeled by environmental parameters. This talk will explore mathematical models for the niche concept, focusing on the relationship between topological and ecological ideas.  We also describe applications of machine learning to develop empirical models from data in the field.  These lead to novel questions in computational topology, and we will discuss recent progress in that direction. This is joint with John Drake in ecology and Edward Azoff in mathematics.
+location: CH240
+photograph: niles-johnson.jpg

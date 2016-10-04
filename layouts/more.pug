@@ -1,0 +1,29 @@
+  <% if future_talks.length > 0 %>
+<p>Upcoming speakers include <%= future_talks.collect{ |talk| talk['speaker'] }.select{ |x| x != 'TBA' }.uniq.collect{ |speaker| future_talks.select{ |talk| talk['speaker'] == speaker }.first }.collect{ |talk| "<a href=\"##{talk.object_id}\">#{talk['speaker'].clean}</a>" }.join( ', ' ) %>.</p>
+<% end %>
+
+<% if past_talks.length > 0 %>
+<p>Past speakers include <%= past_talks.collect{ |talk| talk['speaker'].clean }.select{ |x| x != 'TBA' }.uniq.sort{|a,b| a.split(' ')[-1] <=> b.split(' ')[-1] }.collect{ |speaker| past_talks.select{ |talk| talk['speaker'].clean == speaker }.first }.collect{ |talk| "<a href=\"##{talk.object_id}\">#{talk['speaker'].clean}</a>" }.join( ', ' ) %>.</p>
+<% end %>
+        </div>
+
+<div id="content">
+
+
+<div id="future">
+<%= future_talks_html %>
+</div>  
+
+<% if past_talks.length > 0 %>
+<div id="past">
+<h2>Past talks</h2>
+  <%= past_talks_html %>
+</div>
+
+<% end %>
+
+</div>
+
+
+<div id="footer">
+

@@ -1,0 +1,16 @@
+date: March 1, 2011 3:30pm
+speaker: Crichton Ogle
+photograph: crichton-ogle.jpg
+speaker-url: http://www.math.ohio-state.edu/people/ogle/view
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+title: Finitely presented groups and the $\ell^1$ $K$-theory Novikov Conjecture
+abstract: Using techniques developed for studying polynomially bounded cohomology,
+  we show that the assembly map for $K_*^t(\ell^1(G))$ is rationally injective for
+  all finitely presented discrete groups $G$. This verifies the $\ell^1$-analogue
+  of the Strong Novikov Conjecture for such groups. The same methods show that the
+  Strong Novikov Conjecture for all finitely presented groups can be reduced to proving
+  a certain (conjectural) rigidity of the cyclic homology group $HC_1^t(H^{CM}_m(F))$
+  where $F$ is a finitely-generated free group and $H^{CM}_m(F)$ is the ``maximal''
+  Connes-Moscovici algebra associated to $F$.
+location: CH240

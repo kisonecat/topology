@@ -1,0 +1,13 @@
+speaker: Giang Le
+date: May 12, 2016 1:50pm
+location: CH240
+speaker-url: http://www.math.osu.edu/people/le.145
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+title: The action dimension of Artin groups
+abstract: The action dimension of a discrete group $G$ is the minimum dimension of
+  a contractible manifold, on which group $G$ acts properly discontinuously. We will
+  prove that the action dimension for an Artin group with the nerve $L$ of dimension
+  $n$ is less than or equal to $2n + 1$ if the Artin group satisfies the $K(\pi, 1)$
+  conjecture and the top cohomology group of $L$ with $\mathbb{Z}$-coefficients is
+  trivial.

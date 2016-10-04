@@ -1,0 +1,20 @@
+speaker: Fedor Manin
+photograph: fedor-manin.jpg
+speaker-url: http://math.uchicago.edu/~manin/
+institution: University of Chicago
+institution-url: http://math.uchicago.edu/
+title: 'Volume distortion in homotopy groups: a safari'
+abstract: 'Given a metric on a finite CW-complex $X$, how can we use geometry to better
+  understand elements $\alpha \in \pi_n(X)$?  One way is by measuring distortion,
+  that is, the way the geometric complexity of an optimal representative of $k\alpha$
+  grows as a function of $k$. In some sense, the "true" measure of complexity is given
+  by the Lipschitz constant, but volume provides an upper bound which is interesting
+  in many cases.  Compared with Lipschitz distortion, which is the topic of an as
+  yet unresolved conjecture of Gromov, volume distortion is tractable and satisfies
+  a strong form of topological invariance.  I will present examples of three ways
+  that volume distortion can arise: from rational homotopy invariants, from the action
+  of the fundamental group on higher homotopy groups, and from the geometry of the
+  fundamental group. These three sources of distortion turn out to be enough to characterize
+  those spaces which have no distorted elements.'
+date: January 27, 2015 3:00pm
+location: CH240

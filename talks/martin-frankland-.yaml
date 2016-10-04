@@ -1,0 +1,14 @@
+speaker: Martin Frankland 
+speaker-url: http://www.math.uiuc.edu/~franklan/
+institution: University of Illinois at Urbana-Champaign
+institution-url: http://illinois.edu/
+title: The homotopy of p-complete K-algebras
+abstract: Morava E-theory is an important cohomology theory in chromatic homotopy
+  theory. Rezk described the algebraic structure found in the homotopy of $K(n)$-local
+  commutative E-algebras, via a monad on $E_\ast$-modules that encodes all power operations.
+  However, the construction does not see that the homotopy of a $K(n)$-local spectrum
+  is L-complete (in the sense of Greenlees-May and Hovey-Strickland). We show that
+  the construction can be improved to a monad on $L$-complete $E_\ast$-modules, and
+  discuss some applications. Joint with Tobias Barthel.
+date: March 5, 2013 3:00pm
+location: CH240

@@ -1,0 +1,27 @@
+speaker: Andrew Salch
+location: CH240
+speaker-url: http://math.wayne.edu/~asalch/
+institution: Wayne State University
+institution-url: http://www.clas.wayne.edu/math/
+title: Explicit class field theory and stable homotopy groups of spheres
+abstract: ' One knows from Artin reciprocity that, for any abelian Galois extension
+  $L/K$ of $p$-adic number fields, there is an isomorphism $K^{\times} / N_{L/K} L^{\times}
+  \to  Gal(L/K)$ from the units in $K$ modulo the norms of units in $L$ to the Galois
+  group of $L/K$; this isomorphism is called the "norm residue symbol." Computing
+  the norm residue symbol explicitly on specific elements of its domain is quite difficult
+  and is an open area of research in algebraic number theory.\nGiven an abelian Galois
+  extension $L$ of $Q_p$ and a finite CW-complex $X$, we use Lubin-Tate theory and
+  the Goerss-Hopkins-Miller theorem to produce a particular subgroup of the $K(1)$-local
+  stable homotopy groups of $X$. We show that this construction provides a filtration,
+  indexed by the abelian extensions of $Q_p$, of the $K(1)$-local stable homotopy
+  groups of finite CW-complexes, and we use Dwork''s computation of the norm residue
+  symbol on the maximal abelian extension of $Q_p$ to compute this filtration explicitly
+  on some interesting finite CW-complexes, such as mod $p$ Moore spaces. We then use
+  the nilpotence and localization theorems of Ravenel-Devinatz-Hopkins-Smith to produce
+  a "dictionary" that lets us pass between norm residue symbols computations from
+  explicit class field theory, and families of nilpotent elements in the $K(1)$-local
+  stable homotopy groups of finite ring spectra.\nTime allowing, we will discuss what
+  versions of a (so far only conjectural) $p$-adic Langlands correspondence would
+  permit these methods to be extended to higher heights, i.e., $K(n)$-local stable
+  homotopy groups and nonabelian Galois extensions of $Q_p$.'
+date: May 1, 2013 3:00pm

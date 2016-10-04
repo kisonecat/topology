@@ -1,0 +1,21 @@
+speaker: Michael Ching
+photograph: michael-ching.jpg
+speaker-url: https://www3.amherst.edu/~mching/
+institution: Amherst College
+institution-url: https://www.amherst.edu/academiclife/departments/mathematics
+title: Monads, nilpotency and Goodwillie calculus
+abstract: Goodwillie's homotopy calculus provides a systematic sequence of ``polynomial''
+  approximations (which together are referred to as the Taylor tower) to suitable
+  functors in homotopy theory. Of particular interest is the identity functor (on
+  the category of based topological spaces) which, it turns out, has an interesting
+  calculus. While not polynomial of any degree, the identity functor is ``analytic''
+  and its Taylor tower converges on connected nilpotent spaces (those with a nilpotent
+  fundamental group acting nilpotently on the higher homotopy groups).\nIn this talk,
+  I want to describe how the nth polynomial approximation to the identity functor
+  can be given the structure of a monad. Algebras over this monad can be thought of
+  as ``n-nilpotent'' spaces---in particular they are nilpotent in the above sense.
+  I will also discuss analogous results for the identity functor on other categories.
+  In the case of algebras over an operad (of spectra), the monad structures on the
+  polynomial approximations to the identity are derived from work of Harper and Hess.
+date: October 28, 2014 3:00pm
+location: CH240

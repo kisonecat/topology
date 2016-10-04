@@ -1,0 +1,9 @@
+speaker: Jon Beardsley
+photograph: jon-beardsley.jpg
+speaker-url: http://math.jhu.edu/~beardsle/
+institution: Johns Hopkins University
+institution-url: http://www.mathematics.jhu.edu/new/
+title: Ravenel's $X(n)$ Spectra as Iterated Hopf-Galois Extensions
+abstract: We prove that the X(n) spectra, used in the proof of Ravenel's Nilpotence Conjecture, can be constructed as iterated Hopf-Galois extensions of the sphere spectrum by loop spaces of odd dimensional spheres. We hope to leverage this structure to obtain a better understanding of the Nilpotence Theorem as well as develop an obstruction theory for the construction of complex orientations of homotopy commutative ring spectra. The method of proof is easily generalized to show that other Thom spectra can be considered intermediate Hopf-Galois extensions, for instance the fact that MU is a Hopf-Galois extension of MSU by infinite dimensional complex projective space.
+date: November 25, 2014 3:00pm
+location: CH240

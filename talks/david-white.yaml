@@ -1,0 +1,9 @@
+speaker: David White
+photograph: david-white.jpg
+speaker-url: http://personal.denison.edu/~whiteda/
+institution: Denison
+institution-url: http://denison.edu/academics/mathematics/
+title: Left proper model structures on algebras over colored operads
+abstract: We will recall the usual method, introduced by Schwede and Shipley, of transferring a model structure on a monoidal model category M to the category of P-algebras where P is a colored operad. We'll then discuss what hypotheses are needed on M so that the resulting model structure on P-algebras is left proper. We'll apply this machinery to the situations where P is a cofibrant colored operad, when P is the commutative monoid operad, and when P is the colored operad for non-reduced operads. We introduce the commutative monoid axiom and prove that the latter two situations inherit left proper model structures from M in the presence of this axiom and the hypothesis of h-monoidality. The primary application of this work is a proof due to Michael Batanin of the Baez-Dolan Stabilization Hypothesis.
+date: March 31, 2015 3:00pm
+location: CH240

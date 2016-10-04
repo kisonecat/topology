@@ -1,0 +1,23 @@
+speaker: Nobuyuki Oda
+photograph: nobuyuki-oda.jpg
+speaker-url: http://www.fukuoka-u.ac.jp/
+institution: Fukuoka University
+institution-url: http://www.fukuoka-u.ac.jp/english/
+title: Brown-Booth-Tillotson products and exponentiable spaces
+abstract: To study the exponential law for function spaces with the compact-open topology,
+  R. Brown introduced a topology for product set, which is finer than the product
+  topology, and showed the exponential law for any Hausdorff spaces. The method was
+  improved by P. Booth and J. Tillotson, making use of test maps, and they removed
+  the Hausdorff condition for spaces. The product space they used is called the BBT-product.
+  If we use any class of exponentiable spaces, then we can define a topology for function
+  spaces which enables us to prove the exponential law  with the BBT-product for any
+  spaces. We can apply the result to based spaces and we get various good results
+  for homotopy theory. For example, we can prove a theorem of pairings of function
+  spaces without imposing conditions on spaces and base points. If we look at the
+  techniques carefully, we find that the results can also be applied to study group
+  actions on function spaces.\nThe BBT-product is asymmetric in general and we can
+  define the `centralizer' of the BBT-product, which contains the class of k-spaces
+  defined by the class. The centralizer of the BBT-product has good properties for
+  homotopy theory.\nThis talk is based on joint work with Yasumasa Hirashima.
+date: March 19, 2013 3:00pm
+location: CH240

@@ -1,0 +1,9 @@
+date: October 12, 2010 3:30pm
+speaker: Dan Burghelea
+location: CH240
+speaker-url: http://www.math.ohio-state.edu/~burghele/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+photograph: dan-burghelea.jpg
+title: Persistence, an invitation to ``Topology for Data Analysis''
+abstract: Persistence is an important new topic in Computational Topology.  In this talk I will explain what ``Persistence'' is, what is this good for, how can it be calculated and what are the new invariants involved in the measuring of persistence. This is a summary of work of Edelsbrunner, Letcher, Zomorodian, Carlsson.  To the extent the time permits, or in a follow up lecture, a more refined version of persistence, whose calculation has the same degree of complexity but carry considerably more information will be described (joint work with Tamal Dey).  The exposition is elementary and needs only basic concepts of simplicial complexes and homology.

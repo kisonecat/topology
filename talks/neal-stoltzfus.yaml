@@ -1,0 +1,21 @@
+date: November 27, 2012 3:00pm
+speaker: Neal Stoltzfus
+speaker-url: https://www.math.lsu.edu/~stoltz/
+institution: Louisiana State University
+institution-url: http://www.math.lsu.edu/
+title: Knots with Cyclic Symmetries and Recursion in Knot Polynomial of Link families
+abstract: 'For knots invariant under a finite order cyclic symmetry, Seifert, Murasugi
+  and others developed  relations constraining the Alexander polynomial of such knots.\nWe
+  develop similar constraints using the transfer method of generating functions is
+  applied to the ribbon graph rank polynomial. This polynomial, denoted $R(D;X,Y,Z)$,
+  is due to  Bollob\''as, Riordan, Whitney and Tutte. Given a sequence of ribbon graphs,
+  $D_n$, constructed by successive amalgamation of a fixed pattern ribbon graph, we
+  prove by the transfer method that the associated sequence of rank polynomials is
+  recursive:  that is, the polynomials $R(D_n;X,Y,Z)$ satisfy a linear recurrence
+  relation with coefficients in $Z[X,Y,Z]$.\nWe develop conditions for the Jones polynomial
+  of links which admit a periodic homeomorphism, by applying the above result and
+  the work of Dasbach et al showing that the Jones polynomial is a specialization
+  of the ribbon graph rank polynomial.\nThis is joint work with Jordan Keller and
+  Murphy-Kate Montee)'
+location: CH240
+photograph: neal-stolzfus.jpg

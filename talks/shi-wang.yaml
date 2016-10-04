@@ -1,0 +1,18 @@
+date: March 15, 2016 3:00pm
+speaker: Shi Wang
+photograph: shi-wang.jpg
+speaker-url: http://math.osu.edu/people/wang.2187
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+location: CH240
+title:  Barycentric straightening and bounded cohomology.
+abstract: In this talk, I will report on joint work with Jean Lafont. We show that,
+  for an $n$-dimensional irreducible symmetric space of rank $r\geq 2$ (excluding
+  $SL(3,\mathbb R)/SO(3)$ and $SL(4, \mathbb R)/SO(4)$), the $p$-Jacobian of barycentrically
+  straightened simplices has uniformly bounded norm, provided $p\geq n-r+2$. As a
+  consequence, for the corresponding non-compact, connected, semisimple real Lie group
+  $G$, every degree $p$ cohomology class has a bounded representative. This answers
+  Dupont's problem in small codimension. We also give examples of symmetric spaces
+  where the barycentrically straightened simplices of dimension $n-r$ have unbounded
+  volume, showing that the range in which we obtain boundedness of the $p$-Jacobian
+  is very close to optimal. I will also discuss some of my recent work on its generalization.

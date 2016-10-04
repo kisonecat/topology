@@ -1,0 +1,20 @@
+speaker: Kun Wang
+date: October 3, 2013 1:50pm
+location: CH240
+speaker-url: http://www.math.osu.edu/~wang.1312/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+title: On group actions on $\mathrm{CAT}(0)$-spaces and the Farrell-Jones Isomorphism
+  Conjecture.
+abstract: The Farrell-Jones isomorphism conjecture (FJIC) plays an important role
+  in manifold topology as well as computations in algebraic $K$- and $L$-theory. It
+  implies, for example, the Borel conjecture of topological rigidity of closed aspherical
+  manifolds and the Novikov conjecture of homotopy invariance of higher signatures.  By
+  the work of A. Bartels, W. Lueck and C. Wegner, it's now known that FJIC holds for
+  $\mathrm{CAT}(0)$-groups, i.e. groups admitting proper, cocompact actions on finite
+  dimensional proper $\mathrm{CAT}(0)$-spaces. This includes for example fundamental
+  groups of nonpositively curved  closed Riemannian manifolds. It's a natural question
+  that if a group admits a "nice" but not necessary proper action on a $\mathrm{CAT}(0)$-space
+  and if the point stabilizers satisfy FJIC, whether the original group satisfies
+  FJIC. In this talk, after outlining the general strategy for proving FJIC,  I will
+  talk about the progress that I have made concerning the above question.

@@ -1,0 +1,14 @@
+speaker: Ian Hambleton
+photograph: ian-hambleton.jpg
+date: February 21, 2012 3:30pm
+location: CH240
+speaker-url: http://www.math.mcmaster.ca/ian/ian.html
+institution: McMaster University
+institution-url: http://www.math.mcmaster.ca/
+title: Co-compact discrete group actions and the assembly map
+abstract: 'A discrete group $\Gamma$ can act freely and properly on $S^n \times R^m$,
+  for some $n, m >0$ if and only if $\Gamma$ is a countable group with periodic Farrell
+  cohomology: Connolly-Prassidis (1989) assuming $vcd(\Gamma)$ finite, Adem-Smith
+  (2001). For free co-compact actions there are additional restrictions, but no general
+  sufficient conditions are known. The talk will survey this problem and its connection
+  to the Farrell-Jones assembly maps in K-theory and L-theory.'

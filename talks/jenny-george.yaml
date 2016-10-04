@@ -1,0 +1,9 @@
+date: December 4, 2012 3:00pm
+speaker: Jenny George
+speaker-url: http://www.math.osu.edu/people/george.287
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+photograph: jenny-george.jpg
+title: TQFTs from Quasi-Hopf Algebras and Group Cocycles
+abstract: The original Hennings TQFT is defined for quasitriangular Hopf algebras satisfying various nondegeneracy requirements.  We extend this construction to quasitriangular quasi-Hopf algebras with related nondegeneracy conditions and prove that this new ``quasi-Hennings'' algorithm is well-defined and gives rise to TQFTs.  The ultimate goal is to apply this construction to the Dijkgraaf-Pasquier-Roche twisted double of the group algebra, and then show that the resulting TQFT is equivalent to a more geometric one, described by Freed and Quinn.
+location: CH240

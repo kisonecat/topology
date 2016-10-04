@@ -1,0 +1,24 @@
+speaker: Dan Burghelea
+date: October 14, 2011 4:30pm
+location: CH240
+speaker-url: http://www.math.ohio-state.edu/~burghele/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+photograph: dan-burghelea.jpg
+title: New topological invariants (bar codes and Jordan cell) at work (part II)
+abstract: 'Bar codes and Jordan cells provide a new type of linear algebra invariants
+  which can be used in topology. In joint work with Tamal Dey we have associated with
+  any angle valued generic map $f : X \to S^1$, $X$ a compact nice space (ANR), $\kappa$
+  any field and any integer $r$, $0 \leq r \leq \dim X$, a collection of such bar
+  codes and Jordan cells. They can be effectively computed in case $\kappa = \mathbb{C}$
+  or $\mathbb{Z}_2$, $X$ is a simplicial complex and f a simplicial map by algorithms
+  implementable by familiar software (Matematica, Mapple or Matlab). In this lecture
+  I will describe some joint work with S Haller.\n1. We prove that the Jordan cells
+  defined using $f$ are homotopy invariants of the pair $(X,\xi)$, $\xi ∈ H^1(X;\mathbb{Z})$
+  representing $f$. \n2. We calculate the homology $H_∗(\tilde{X};\kappa)$ as a $\kappa[t^{−1},t]$
+  module, $\tilde{X}$ the infinite cyclic cover of $X$ induced by $\xi$, as well as
+  and the Novikov homology and Milnor-Turaev torsion of $(X;\xi)$ in terms of bar
+  codes and Jordan cells. \n3. As a consequence we introduce Lefchetz zeta function
+  of a pair $(X;\xi)$ which generalizes the familiar Lefschetz zeta function of a
+  self map of a compact manifold and the Alexander polynomial of a knot, and relate
+  this function to dynamics.'

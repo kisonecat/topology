@@ -1,0 +1,9 @@
+speaker: Gabriel Valenzuela
+photograph: gabriel-valenzuela.jpg
+speaker-url: http://gvalenzuela.web.wesleyan.edu
+institution: Wesleyan University
+institution-url: http://www.wesleyan.edu/mathcs/index.html
+title: Homological algebra of complete and torsion modules
+abstract: Let R be a finite-dimensional regular local ring with maximal ideal m. The category of m-complete R-modules is not abelian, but it can be enlarged to an abelian category of so-called L-complete modules.  This category is an abelian subcategory of the full category of R-modules, but it is not usually a Grothendieck category. It is well known that a Grothendieck category always has a derived category, however, this is much more delicate for arbitrary abelian categories.
+date: December 9, 2014 3:00pm
+location: CH240

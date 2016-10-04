@@ -1,0 +1,23 @@
+date: November 2, 2010 3:30pm
+speaker: Ian Leary
+speaker-url: http://www.math.ohio-state.edu/~leary/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+photograph: ian-leary.jpg
+title: Infinite Smith groups and Kropholler's hierarchy I
+abstract: This talk concerns actions of (discrete) groups on finite-dimensional contractible
+  simplicial complexes.  I call a group G a `Smith group' if every action of G on
+  a finite-dimensional contractible simplicial complex has a fixed point.  (The P
+  A Smith theorem tells us that every finite p-group is a Smith group; there are no
+  other finite Smith groups.)\nKropholler's hierarchy assigns an ordinal to a group,
+  describing how simply it can be made to act on a finite-dimensional contractible
+  simplicial complex.  Finite groups are at stage 0 of the hierarchy and stage 1 contains
+  all groups that act on a finite-dimensional contractible simplicial complex without
+  a fixed point.  Until our work, no group was known to lie in the hierarchy beyond
+  stage 3.\nWe construct an infinite Smith group, and construct groups that show that
+  for countable groups, Kropholler's hierarchy is as long as it possibly could be.\nIn
+  the talks, I will describe some fixed-point theorems and explain some aspects of
+  our group constructions.  The first talk will focus on Smith groups and the second
+  on Kropholler's hierarchy.\nJoint with G Arzhantseva, M Bridson, T Januszkiewicz,
+  P Kropholler, A Minasyan and J Swiatkowski.
+location: CH240

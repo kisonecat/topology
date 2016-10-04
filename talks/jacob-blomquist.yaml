@@ -1,0 +1,9 @@
+speaker: Jacob Blomquist
+photograph: jacob-blomquist.jpg
+speaker-url: https://math.osu.edu/people/blomquist.9
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+date: September 13, 2016 3:00pm
+location: CH240
+title: On an integral analog of Quillen's rational homotopy theorem
+abstract: In his landmark 1969 Annals paper, Quillen showed that the rational homotopy type of a simply connected space could be detected at the level of its singular rational chains, and furthermore, that rational chains fit into a derived equivalence with cocommutative dg coalgebras over the rationals, after restricting to 1-connected objects. In 1977 Sullivan subsequently proved the analogous result in the case of rational cochains and commutative dg algebras over the rationals. Since then topologists have worked on attempting to establish analogous results for finite fields (Kriz, Goerss, Mandell), and more recently some partial results have been established in the integral chains case (Mandell, Karoubi). Nevertheless, establishing that integral chains fit into a derived equivalence has proved resistant to all attacks. In this talk I will outline how we recently resolved, in the affirmative, the integral chains problem. Our approach exploits a mixture of (co)simplicial techniques and together with some ideas related to the framework developed in Ching-Harper's recent resolution of the 0-connected Francis-Gaitsgory conjecture. If time permits, I will also describe how we recently resolved the problem of establishing a recognition principle for iterated suspension spaces, dual to the celebrated iterated loop spaces work of May and Beck. This is joint work with M. Ching and J.E. Harper.

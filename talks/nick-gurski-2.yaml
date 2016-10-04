@@ -1,0 +1,9 @@
+speaker: Nick Gurski
+photograph: nick-gurski.jpg
+speaker-url: http://gurski.staff.shef.ac.uk
+institution: University of Sheffield
+institution-url: https://www.sheffield.ac.uk/maths
+title: Generalized Picard categories and canonical symmetries
+abstract: A Picard category is a symmetric monoidal category in which the morphisms are all isomorphisms and the objects are invertible with respect to the tensor product.  These arise from certain kinds of algebraic or geometric invariants, but also in stable homotopy theory as models for stable homotopy 1-types.  The computation of a specific universal Picard category shows that there is a canonical action of the cyclic group of order 2 on any invertible object in any symmetric monoidal category, and moreover this computation is an algebraic shadow of the process whereby one obtains the sphere spectrum from the symmetric groups.  Exchanging the symmetric groups for the braid groups, one might ask what the corresponding canonical group action will be, and I will explain some topologically-inspired machinery that gives the answer for braids as well as many other possible input structures.
+date: March 22, 2016 3:00pm
+location: CH240

@@ -1,0 +1,9 @@
+date: October 11, 2016 3:00pm
+speaker: Dan Burghelea
+location: CH240
+speaker-url: http://www.math.ohio-state.edu/~burghele/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+photograph: dan-burghelea.jpg
+title: Morse complex via bar codes
+abstract:  'The main result of MorseTtheory is  the description of  the "Morse Complex", which calculates the homology of a compact Riemannian manifold, whose  components are given by the critical points of a smooth generic function and the boundary maps by the isolated trajectories (between critical points) of the gradient of the function with respect  to a generic Riemannian metric.\nWe have recently shown that this complex (when tensored by a field) is completely determined (and determines) up to isomorphism  by the “bar codes”  of the  function. The bar codes are finite collections of pairs of real numbers (ends of intervals) effectively computable by “computer implementable algorithms”.\nIn addition to computational applications (calculation of number of critical points, and estimates on isolated  trajectories) there are pleasant implications both in topology and in dynamics.  But more important, the Morse complex we propose can be defined for a considerably larger class of functions defined on a considerably larger class of compact spaces providing informations about the dynamics of flows admitting the function as Lyapunov.'

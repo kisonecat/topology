@@ -1,0 +1,9 @@
+date: January 12, 2012 3:30pm
+speaker: Eric Babson
+photograph: eric-babson.jpg
+speaker-url: http://www.math.ucdavis.edu/research/profiles/babson
+institution: Univeristy of California, Davis
+institution-url: http://www.math.ucdavis.edu/
+title: Random simplicial complexes
+abstract: The study of fundamental groups of random two dimensional simplicial complexes calls attention to the small subcomplexes of such objects. Such subcomplexes have fewer triangles than some multiple of the number of their vertices. One gets that this condition with constant less than two on a connected complex (and all of its subcomplexes) implies that it is homotopy equivalent to a wedge of circles, spheres and projective planes.  This analysis yields parameter regimes for vanishing, hyperbolicity and Kazhdanness of these groups. For clique complexes of random graphs there is a similar problem involving complexes with fewer edges than thrice the number of their vertices resulting in similar results on the fundamental groups of their clique complexes. This is based on joint work with Hoffman and Kahle.
+location: MW154

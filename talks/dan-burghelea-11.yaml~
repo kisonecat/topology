@@ -1,0 +1,22 @@
+date: February 22, 2011 3:30pm
+speaker: Dan Burghelea
+location: CH240
+speaker-url: http://www.math.ohio-state.edu/~burghele/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+photograph: dan-burghelea.jpg
+title: New topological invariants in Morse Novikov theory (bar codes and Jordan cells)
+abstract: 'Inspired by the idea of ``persistence'''' (persistent homology) we introduce
+  a new class of topological invariants for (tame) circle valued maps $f: X \to S^1$.
+  They are Bar Codes and Jordan Cells. If $X$ is compact and $f$ is topologically
+  tame (in particular a Morse circle valued function), they are algorithmically computable;
+  moreover all topological invariants of interest in Novikov-Morse theory can be recovered
+  from them; (for example the Novikov-Betti numbers of $(M, \xi)$, $\xi \in H^1(M;\mathbb{Z})$
+  representing the homotopy class of $f$, can be recovered from the bar codes while
+  the usual Betti numbers of $M$ from bar codes and Jordan cells. A more subtle invariant
+  like Reidemeister torsion is related to the Jordan cells. The definition of these
+  invariants is based on representation theory of quivers ($=$oriented graphs). The
+  above theory extends Novikov-Morse theory from Morse circle valued maps to tame
+  maps $f:X \to S^1$ and even further to 1-cocycle which is the topological version
+  of closed one form for smooth manifolds. This last extension is more elaborate and
+  will be discussed later.'

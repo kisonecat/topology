@@ -1,0 +1,17 @@
+speaker: Dan Burghelea
+photograph: dan-burghelea.jpg
+speaker-url: https://people.math.osu.edu/burghelea.1/
+institution: The Ohio State University
+institution-url: http://math.osu.edu
+title: Refinement of Betti (Novikov--Betti) numbers  and homology (Novikov--homology) provided by a real (angle vauled) map.
+abstract: 'To any pair $(X,f)$, $X$ compact ANR and $f$ a real (angle) valued map
+  defined on $X$ and any $r$, a non-negative integer, we assign: (1) a finite configuration
+  of points ``$z$'''' with multiplicities $\delta_{rf}(z)$ located in the complex
+  plane and (2) a finite configuration of vector spaces $\delta^{f} (z)$ indexed by
+  the same $z$′s in analogy with (1) the configuration of eigenvalues and of (2) generalized
+  eigenspaces of a linear operator in a finite dimensional complex vector space.\nThe
+  analogy goes quite far as long as the formal properties are concerned and becomes
+  particularly subtle in the case of an angle valued map (involving L-2 topology).
+  The basic properties/implications are discussed.'
+date: October 20, 2015 3:00pm
+location: CH240

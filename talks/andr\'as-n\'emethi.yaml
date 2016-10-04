@@ -1,0 +1,20 @@
+speaker: Andr\'as N\'emethi
+photograph: andras-nemethi.jpg
+speaker-url: https://www.renyi.hu/~nemethi/
+institution: Alfr\'ed R\'enyi Institute of Mathematics
+institution-url: http://www.renyi.hu/
+title: Lattice and Heegaard-Floer homologies of algebraic links
+abstract: 'We compute the Heegaard-Floer link homology of algebraic links in terms
+  of the multivariate Hilbert function of the corresponding plane curve singularities.
+  A new version of lattice homology is defined: the lattice corresponds to the normalization
+  of the singular germ, and the Hilbert function serves as the  weight function. The
+  main result of the paper identifies four homologies: (a) the lattice homology associated
+  with the Hilbert function, (b) the  homologies of the projectivized complements
+  of local hyperplane arrangements cut out from the local algebra by valuations given
+  by the  normalizations of irreducible components, (c) a certain variant of the Orlik--Solomon
+  algebra of these local arrangements, and (d)  the Heegaard--Floer link homology
+  of the local embedded link of the germ.   In particular, the Poincar\''e polynomials
+  of all these homology groups are the same, and we also show that they agree with
+  the coefficients of the motivic Poincar\''e  series of the singularity.'
+date: June 10, 2014 3:00pm
+location: CH240

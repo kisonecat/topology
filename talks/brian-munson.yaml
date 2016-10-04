@@ -1,0 +1,9 @@
+date: January 25, 2011 3:30pm
+speaker: Brian Munson
+speaker-url: http://palmer.wellesley.edu/~munson/
+institution: Wellesley College
+institution-url: http://www.wellesley.edu/Math/index.html
+title: Linking numbers, generalizations, and homotopy theory
+abstract: The linking number was first defined by Gauss in 1833, who wrote it as an integral which is supposed to compute the number of times one circle wraps around another in space. I will begin by discussing the classical linking number using a much simpler definition by taking a planar projection of the link and counting the number of times one component lies over the other. From this we will see exactly what it is the linking number counts, and this leads to two things. The first is the realization that the linking number is really a "relative" invariant. The second is a generalization, due to the speaker, of a linking "number" for arbitrary manifolds in an arbitrary manifold. I will also discuss Milnor's higher-order linking numbers, which detect, for example, that classical links such as the Borromean rings are linked (despite being pairwise unlinked). This was generalized by Koschorke to higher-order linking of arbitrary spheres in Euclidean space, and the speaker generalized this to arbitrary manifolds. These higher-order invariants are also relative invariants in the same way the linking number is, and they admit a number of interesting geometric interpretations. Along the way, we will observe that the classical linking number is related to the stable homotopy groups of spheres, whereas the higher-order generalizations are related to a certain filtration of the unstable homotopy groups of spheres.
+location: CH240
+photograph: brian-munson.jpg

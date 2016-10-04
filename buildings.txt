@@ -1,0 +1,316 @@
+211; Adventure Recreation Center; 211; AR
+199; Aeronautical and Astronautical Research Laboratory; 199
+003; Agricultural Administration Building; 003; AA
+298; Agricultural Engineering Building; 298; AE
+952; Agronomy Field Greenhouse; 952
+992; Agronomy Turf Research Building; 992
+955; Airport Drive; 955
+174; Animal House; 174
+156; Animal Science Building; 156; AS
+261; Archer House; 261
+131; Aronoff Laboratory; 131; AL
+011; Arps Hall; 011; AP
+936; Athletics Training Center (golf); 936
+306; Atwell Hall; 306; AH
+036; Aviation Building; 036; AV
+095; Baker Hall (East & West); 095
+280; Baker Systems Engineering; 280; BE
+184; Barrett House; 184
+307; Bevis Hall; 307; BH
+276; Biological Sciences Building; 276; BI
+010; Biological Sciences Greenhouses; 010
+112; Biomedical Research Tower; 112; BT
+394; Biotechnology Support Facility; 394
+181; Blackburn House; 181
+254; Blackwell Inn at Fisher College; 254
+360; Blankenship Hall; 360
+315; Bloch Cancer Survivors Plaza; 315
+146; Bolz Hall; 146; BO
+110; Boyd Laboratory; 110; BL
+097; Bradley Hall; 097
+001; Bricker Hall; 001; BK
+888; Browning Amphitheater; 888
+108; Buckeye Field; 108
+800; Buckeye Village Community Center; 800
+833; Buckeye Village Student Housing Administration Building; 833
+834; Buckeye Village Student Housing Recreation Hall; 834
+801; Buckeye Village Student Housing Unit A<br>(represents Units B-HH, building numbers 803-832); 801
+362; Bulk Chemical Warehouse; 362
+026; Caldwell Laboratory; 026; CL
+018; Campbell Hall; 018; CM
+200606; Campus Gateway Barnes & Noble; 200606
+987; Campus Shop Building; 987
+098; Canfield Hall; 098
+371; Celeste Laboratory of Chemistry; 371; CE
+213; Center for Integrative Medicine; 213
+934; Center of Science and Industry (COSI); 934
+072; Central Classroom Building; 072; CC
+077; Central Service Building; 077
+200607; Chadwick Arboretum; 200607
+385; Child Care Center; 385
+063; Cockins Hall; 063; CH
+255; Coffey Road Sports Center; 255
+380; Community Extension Center; 380; CX
+363; Comprehensive Cancer Center; 363
+056; Converse Hall; 056; CV
+300; Cramblett Hall (Hospital Clinic); 300
+140; Cryogenic Laboratory; 140
+293; Cunz Hall; 293; CZ
+316; Dairy Calf Barn; 316
+008; Dairy Loose Housing Barn; 008
+023; Dairy Research Barn; 023
+228; Davis Baseball Stadium; 228
+113; Davis Heart and Lung Research Inst; 113; HR
+382; Davis Medical Research Center; 382; DV
+030; Denney Hall; 030; DE
+025; Derby Hall; 025; DB
+089; Doan Hall; 089; DN
+171; Dodd Hall; 171; DO
+985; Dodridge St. (250 W); 985
+189; Drackett Tower; 189
+296; Drake Performance and Event Center; 296; DR
+279; Dreese Laboratories; 279; DL
+049; Drinko Hall; 049; DI
+337; Dulles Hall; 337; DU
+057; Edison Joining Technology Center; 057; ED
+009; Electroscience Laboratory; 009
+085; Enarson Hall; 085; EN
+995; Evans Hall; 995
+150; Evans Laboratory; 150; EL
+028; Faculty Club; 028
+284; Fawcett Center; 284; CT
+040; Fechko Alumnae Scholarship House; 040
+896; Fisher Commons; 896
+249; Fisher Hall; 249; FI
+151; Fontana Laboratories; 151; FL
+086; French Field House; 086; FF
+059; Fry Hall; 059; FR
+282; Galbreath Equine Center; 282
+863; Gateway Building C; 863
+132; General Biology Annex; 132; GB
+250; Gerlach Graduate Programs Bldg; 250; GE
+965; German House; 965
+180; Goss Laboratory; 180; GL
+277; Graves Hall; 277; GR
+037; Hagerty Hall; 037; HH
+259; Hale Hall; 259; HL
+185; Halloran House; 185
+038; Hamilton Hall; 038; HM
+864; Hanley Alumnae Scholarship House; 864
+165; Harding Hospital; 165
+027; Haskett Hall; 027; HK
+182; Haverfield House; 182
+039; Hayes Hall; 039; HA
+222; Heffner Wetland Research & Education Building; 222; HW
+221; Heifer Barn; 221
+274; Hitchcock Hall; 274; HI
+149; Hopkins Hall; 149; HC
+194; Houck House; 194
+297; Howlett Greenhouses; 297; HG
+295; Howlett Hall; 295; HT
+042; Hughes Hall; 042; HU
+229; Ice Rink; 229; IR
+338; Independence Hall; 338; IH
+878; Institute for Behavioral Medicine Research; 878; BR
+372; James Cancer Hospital & Solove Research Institute; 372; JA
+014; Jennings Hall; 014; JE
+092; Jesse Owens Memorial Stadium; 092; JO
+347; Jesse Owens Recreation Center North; 347; NR
+348; Jesse Owens Recreation Center South; 348; SR
+349; Jesse Owens West Tennis Center; 349; WR
+074; Johnston Laboratory; 074
+267; Jones Tower; 267
+046; Journalism Building; 046; JR
+105; Kennedy Commons; 105
+364; Kinnear Road Center-Building A; 364
+365; Kinnear Road Center-Building B; 365
+366; Kinnear Road Center-Building C; 366
+367; Kinnear Road Center-Building D; 367
+368; Kinnear Road Center-Building E; 368
+017; Knowlton Hall; 017; KN
+145; Koffolt Laboratories; 145; KL
+340; Kottman Hall; 340; KH
+959; Kuhn Honors & Scholars House; 959; HN
+891; Lane Avenue Residence Hall; 891
+289; Laundry Building; 289
+041; Lazenby Hall; 041; LZ
+350; Library Book Depository; 350
+271; Lincoln Tower; 271; LT
+022; Longaberger Alumni House; 022
+100; Mack Hall; 100
+265; Macquigg Laboratory; 265; MQ
+317; Main Dairy Barn; 317
+078; Maintenance Building; 078
+252; Mason Hall; 252; MH
+187; Mathematics Building; 187; MA
+007; Mathematics Tower; 007; MW
+303; McCampbell Hall; 303; MC
+247; McCorkle Aquatic Pavilion; 247; MK
+069; McCracken Power Plant; 069
+053; McPherson Chemical Lab; 053; MP
+281; Meiling Hall; 281; ME
+054; Mendenhall Laboratory; 054; ML
+055; Mershon Auditorium; 055; MM
+047; Mershon Center; 047; MN
+200602; Mirror Lake; 200602
+861; Moody-Hall Neighborhood Policing Center; 861
+882; Morehouse Medical Plaza-Concourse; 882
+880; Morehouse Medical Plaza-Pavilion; 880
+881; Morehouse Medical Plaza-Tower; 881
+272; Morrill Tower; 272; MT
+190; Morrison Tower; 190
+311; Mount Hall; 311; MO
+191; Nationwide and Ohio Farm Bureau 4-H Center; 191; FO</li>
+846; Neil Building; 846
+260; Neilwood Gables; 260
+147; Newman & Wolfrom Lab of Chemistry; 147
+275; Newton Hall; 275; NH
+091; Nicklaus Museum; 091; NK
+192; North Commons; 192
+357; Northwood-High Building; 357; NO
+186; Norton House; 186
+262; Nosker House; 262
+082; Ohio Stadium; 082; ST
+161; Ohio Union; 161; OU
+012; Ornamental Plant Germplasm Center; 012
+060; Orton Hall; 060; OR
+079; OSU Electric Substation; 079
+839; OSU Family Practice on South High; 839
+102; Oxley Hall; 102; OX
+061; Page Hall; 061; PA
+104; Park Hall; 104
+064; Parker Food Science and Technology; 064; FS
+278; Parking Garage B: Arps; 278
+352; Parking Garage: 11th Avenue; 352
+387; Parking Garage: 12th Avenue; 387
+875; Parking Garage: 9th Avenue East; 875
+359; Parking Garage: 9th Avenue West; 359
+172; Parking Garage: Cannon Dr. North and South; 172
+866; Parking Garage: Gateway; 866
+170; Parking Garage: Hospitals; 170
+159; Parking Garage: Lane Avenue; 159
+883; Parking Garage: Morehouse Medical Plaza; 883
+287; Parking Garage: Neil Avenue; 287
+083; Parking Garage: Northwest; 083
+288; Parking Garage: Ohio Union  North; 288
+162; Parking Garage: Ohio Union South; 162
+088; Parking Garage: Tuttle Park Place; 088
+892; Parking Garage: West Lane; 892
+273; Parks Hall; 273; PK
+103; Paterson Hall; 103
+048; Pennsylvania Place; 048; PN
+253; Pfahl Executive Education Building; 253; PF
+245; Physical Activities & Education Services (PAES); 245; PE
+070; Physics Research Building; 070; PY
+066; Plumb Hall; 066; PL
+869; Pomerene Alumnae Scholarship House; 869
+067; Pomerene Hall; 067; PO
+024; Postle Hall; 024; PH
+153; Poultry Breeding House 3; 153
+154; Poultry Brooding House 2; 154
+130; Power House; 130
+309; Pressey Hall; 309; PR
+290; Printing Facility; 290
+302; Prior Health Sciences Library; 302; HS
+144; Psychology Building; 144; PS
+155; Radiation Dosimetry Calibration Facility; 155
+090; Ramseyer Hall; 090; RA
+269; Raney Commons; 269
+158; Reactor Building; 158
+217; Recreation Field Support/Utility Building; 217
+218; Recreation Service Building; 218
+200; Research Administration Building; 200
+073; Research Center; 073; RC
+354; Rhodes Hall-University Hospital; 354; RD
+266; Riffe Building; 266; RF
+308; Rightmire Hall; 308; RH
+969; Riverwatch Tower; 969
+353; Ross Heart Hospital; 353; RO
+384; Rothenbuhler Honey Bee Research Lab; 384
+183; Royer Student Activities Center; 183; RY
+246; RPAC - Recreation & Physical Activity Center; 246; RP
+215; Sandefur Wetland Pavilion; 215
+264; Satellite Communications Facility; 264
+933; Schoenbaum Family Center; 933
+251; Schoenbaum Hall; 251; SB
+848; Scholars House East; 848
+847; Scholars House West; 847
+081; Schottenstein Center; 081
+005; Science and Engineering Library; 005; SE
+974; Science Village; 974
+310; Scott Hall; 310; SC
+188; Scott House; 188
+148; Scott Laboratory; 148; SO
+263; Service Building Annex; 263
+358; Sherman Studio Art Center; 358; SA
+099; Siebert Hall; 099
+080; Sisson Hall; 080; SI
+109; Smith Hall; 109
+065; Smith Laboratory; 065; SM
+076; St. John Arena; 076; SJ
+176; Starling Loving Hall; 176; SL
+949; State of Ohio Computer Center (N); 949
+141; Steeb Hall; 141
+084; Stillman Hall; 084; SH
+381; Stores and Receiving Building; 381
+096; Stradley Hall; 096
+160; Student Academic Services Building (SAS); 160
+106; Sullivant Hall; 106; SU
+932; Surplus; 932
+268; Taylor Tower; 268; TT
+379; Telecommunications Network Center (TNC); 379
+200605; The Oval; 200605
+050; Thompson Library, William Oxley Memorial ; 050; LI
+087; Townshend Hall; 087; TO
+983; Turfgrass Foundation Research & Education Facility; 983
+163; Tzagournis Medical Research Facility; 163
+898; University Development; 898
+339; University Hall; 339; UH
+200603; University Plaza Hotel; 200603
+991; Urban Arts Space; 991
+137; Van De Graaff Laboratory; 137; VG
+299; Veterinary Hospital; 299; VE
+136; Veterinary Medicine Academic Building; 136
+002; Vivian Hall; 002; VH
+179; Waterman Laboratory Headquarters; 179
+107; Watts Hall; 107; WA
+355; Weigel Hall; 355; WG
+210; Wetland Bike Shelter; 210</li>
+386; Wexner Center for the Arts; 386; WX
+294; Wilce Student Health Center; 294; WS
+157; Wiseman Hall; 157; WI
+029; Women's Field House; 029; WO
+270; Woody Hayes Athletic Center; 270; WD
+849; Worthington Building; 849
+052; Younkin Success Center; 052; YN
+913; 105 W Lane Ave; 913
+373; 1100 Kinnear Rd; 373; KI
+916; 115 W Lane Ave; 916
+915; 121 W Lane Ave; 915
+378; 1212-1218 Kinnear Rd; 378
+374; 1224 Kinnear Rd; 374; KR
+917; 127 W Lane Ave; 917
+395; 1275 Kinnear Rd; 395
+126; 1314 Kinnear Rd.; 126
+951; 1315 Kinnear Rd; 951; MB
+855; 141 E 15th Ave.; 855
+926; 1836 High St.; 926
+232; 1900 Kenny Rd.; 232; KE
+943; 1929 Kenny Rd.; 943
+214; 2030 Kenny Rd.; 214
+004; 209 W. 18th Avenue; 004; EA
+094; 2470 North Star Rd; 094
+909; 265 W 11th Ave; 909
+981; 2941 Kenny Rd. #110; 981
+193; 33 W. 11th Ave; 193
+356; 395 W. 12th Ave.; 356
+964; 45 W 11th Ave; 964
+902; 52 W. 11th Ave; 902
+243; 600-640,670,680 Ackerman Road; 243; AK
+241; 650 Ackerman Rd; 241
+242; 660 Ackerman; 242
+963; 760 Kinnear Rd.; 963
+966; 770 Kinnear Rd (L); 966
+962; 807 Kinnear Rd; 962; KA
+227; 930 Kinnear Rd.; 227
+931; 960 Kinnear Rd; 931

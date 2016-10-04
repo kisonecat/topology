@@ -1,0 +1,9 @@
+date: November 13, 2012 3:00pm
+speaker: Jim Fowler
+location: CH240
+speaker-url: http://www.math.ohio-state.edu/~fowler/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+photograph: jim-fowler.jpg
+title: Numeric methods in topology
+abstract: Often the answer to a topological question is, by its own admission, nonconstructive, but even when the answer is constructive, serious difficulties can arise in carrying out that construction.  We will consider a couple cases like this.  As an approachable, low-dimensional example, we decompose surfaces as a square complex with a fixed number of squares meeting at a vertex.  As a high-dimensional example, we consider the possible Pontrjagin numbers of highly connected 32-manifolds.  To address this latter case, we will be confronted with needing to compute the coefficients of the Hirzebruch $L$-polynomial; some topology provides a recursive method faster than naive symmetric reduction.

@@ -1,0 +1,35 @@
+    div.media
+      if slides
+      if paper-url
+
+    <div class="mediabox">
+    <div class="slideshow">
+	  <% dir_name = "slides/#{talk['slides']}/images" %>
+	  <% Dir.new(dir_name).entries.select{ |x| x.match( /.png$/ ) }.sort.each do |file| %>
+	    <% pagenumber = file.split('-')[1].split('.')[0].to_i %>
+	    <% if pagenumber > 1000 %>
+	      <img original="<%= "#{dir_name}/#{file}" %>" src="img/grey.gif" class="lazyload" />
+            <% else %>
+  	      <img src="<%= "#{dir_name}/#{file}" %>"/>
+	    <% end %>
+	  <% end %>
+    </div>
+    <p><a href="<%= talk['slides'] %>/slides.pdf"><img src="img/pdf.png"/> Download Slides</a></p>
+    </div>
+    <% end %>
+
+    <% if talk['paper-url'] %>
+    <div class="mediabox">
+    <div class="paper">
+      <a href="<%= talk['paper-url'] %>"><img src="thumbnails/<%= Digest::MD5.hexdigest(talk['paper-url']) %>.png" class="thumbnail"/></a>
+    </div>
+    <p><a href="<%= talk['paper-url'] %>"><img src="img/pdf.png"/> Download Paper</a></p>
+    </div>
+    <% end %>
+
+    </div>
+
+  </div>
+  </div>
+
+  

@@ -1,0 +1,9 @@
+speaker: Hannah Alpert
+photograph: hannah-alpert.jpg
+speaker-url: http://web.mit.edu/hcalpert/www/
+institution: Massachusetts Institute of Technology
+institution-url: http://math.mit.edu/index.php
+title: Morse broken trajectories and hyperbolic volume
+abstract: A large family of theorems all state that if a space is topologically complex, then the functions on that space must express that complexity, for instance by having many singularities. For the theorem in this talk, our preferred measure of topological complexity is the hyperbolic volume of a closed manifold admitting a hyperbolic metric (or more generally, the Gromov simplicial volume of any space).  A Morse function on a manifold with large hyperbolic volume may still not have many critical points, but we show that there must be many flow lines connecting those few critical points. Specifically, given a closed n-dimensional manifold and a Morse-Smale function, the number of n-part broken trajectories is at least the Gromov simplicial volume.  To prove this we adapt lemmas of Gromov that bound the simplicial volume of a stratified space in terms of the complexity of the stratification.
+date: October 6, 2015 3:00pm
+location: CH240

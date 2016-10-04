@@ -1,0 +1,21 @@
+    <% unless talk['location-url']
+         code = talk['location'][0..1]
+         possible_buildings = $buildings.select{ |x| x.last == code }
+         if possible_buildings.length > 0
+           building = possible_buildings.first
+           talk['location-url'] = "http://www.osu.edu/map/building.php?building=#{building[0]}"
+
+           unless code == 'MW' or code == 'CH' or code == 'EA'
+             talk['location'] = "#{building[1]} #{talk['location'][2..-1]}"
+           end
+         end
+       end %>
+
+    <% if talk['location-url'] %>
+      <a href="<%= talk['location-url'] %>"><%= talk['location'] %></a>
+    <% else %>
+      <%= talk['location'] %>
+    <% end %>
+    </span>
+    </div>
+    

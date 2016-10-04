@@ -1,0 +1,10 @@
+speaker: Michael A. Mandell
+photograph: michael-mandell.jpg
+speaker-url: http://mypage.iu.edu/~mmandell/
+institution: Indiana University, Bloomington
+institution-url: http://www.math.indiana.edu/
+title: The homotopy theory of cyclotomic spectra
+abstract: In joint work with Andrew Blumberg, we construct a category of cyclotomic spectra that is (something like) a closed model category and which has well-behaved mapping spectra.  We show that topological cyclic homology (TC) is the corepresentable functor on this category given by maps out of the sphere spectrum, verifying a conjecture of Kaledin.
+date: April 9, 2013 3:00pm
+location: CH240
+slides-url: http://mypage.iu.edu/~mmandell/talks/OSU1304-talk.pdf

@@ -1,0 +1,22 @@
+date: September 29, 2015 3:00pm
+speaker: Gabriel Valenzuela
+photograph: gabriel-valenzuela.jpg
+speaker-url: http://www.math.osu.edu/people/valenzuela.12
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+title: Local duality in algebra and topology
+abstract: Local cohomology was introduced by Grothendieck as a substitute in algebraic
+  geometry for the relative cohomology of a pair of spaces. His studies culminate
+  in his local duality theorem, a result that has proven to be important both computationally
+  and conceptually. Subsequently, this theory has been extended in many directions,
+  most notably by Greenlees and May with the introduction of local homology functors
+  and their interpretation of local duality as special case of what is now know as
+  Greenlees-May duality.\nHowever, local duality type results appear in other instances
+  not covered by the existent theory. In this talk, we will introduce a common categorical
+  framework that exhibits local duality as a fundamental phenomenon in different contexts.
+  We will explain how this can be used to develop the theory for comodules over certain
+  Hopf algebroids and their corresponding geometric interpretation as quasi-coherent
+  sheaves over stacks. If time permits, we will show an application of this theory
+  to the computation of certain cohomology theories in chromatic homotopy theory.  This
+  is joint work with Tobias Barthel and Drew Heard.
+location: CH240

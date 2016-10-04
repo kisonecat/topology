@@ -1,0 +1,16 @@
+speaker: Moshe Cohen
+photograph: moshe-cohen.jpg
+speaker-url: http://technion.ac.il/~mcohen/
+institution: Technion, Israel Institute of Technology
+institution-url: http://webee.technion.ac.il/
+title: Random 2-bridge Chebyshev billiard table diagrams
+abstract: Koseleff and Pecker show that all knots can be parametrized by Chebyshev
+  polynomials in three dimensions. These long knots can be realized as trajectories
+  on billiard table diagrams. We use this knot diagram model to study random knot
+  diagrams by flipping a coin at each 4-valent vertex of the trajectory.\nWe truncate
+  this model to study 2-bridge knots together with the unknot. We give the exact probability
+  of a knot arising in this model.  Furthermore, we give the exact probability of
+  obtaining a knot with crossing number c.\nThis is joint work with Sunder Ram Krishnan
+  and Chaim Even-Zohar.
+date: March 10, 2016 3:00pm
+location: CH240

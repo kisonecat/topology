@@ -1,0 +1,18 @@
+speaker: Dan Isaksen
+location: JR353
+photograph: dan-isaksen.jpg
+speaker-url: http://math.wayne.edu/~isaksen/
+institution: Wayne State University
+institution-url: http://www.clas.wayne.edu/math/
+title: Sums-of-squares formulas and motivic cohomology
+abstract: A sums-of-squares formula over a field $k$ is a polynomial identity of the
+  form $\left( x_1^2 + \cdots + x_r^2 \right) \left( y_1^2 + \cdots + y_s^2 \right)
+  = z_1^2 + \cdots z_t^2,$ where the $z$'s are bilinear in the $x$'s and $y$'s over
+  $k$. If a sums-of-squares formula exists over $\mathbb{R}$, then a theorem of Hopf
+  from 1940 gives numerical restrictions on $r$, $s$, and $t$. This result was one
+  of the earliest uses of the cup product in singular cohomology.\nI will describe
+  some joint work with D. Dugger on generalizing Hopf's result to arbitrary fields
+  of characteristic not $2$.  The basic idea is to use motivic cohomology instead
+  of singular cohomology.\nThis leads into the broader subject of computations in
+  motivic homotopy theory.\nThis is a joint talk with algebraic geometry seminar.
+date: May 15, 2012 3:30pm

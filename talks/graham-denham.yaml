@@ -1,0 +1,22 @@
+date: January 17, 2012 3:30pm
+speaker: Graham Denham
+photograph: graham-denham.jpg
+speaker-url: http://www.math.uwo.ca/~gdenham/new/index.html
+institution: The University of Western Ontario
+institution-url: http://www.math.uwo.ca/
+title: Duality properties for abelian covers
+abstract: 'In parallel with a classical definition due to Bieri and Eckmann, say an
+  FP group G is an abelian duality group if H^p(G,Z[G^{ab}]) is zero except for a
+  single integer p=n, in which case the cohomology group is torsion-free.  We make
+  an analogous definition for spaces.  In contrast to the classical notion, the abelian
+  duality property imposes some obvious constraints on the Betti numbers of abelian
+  covers.\nWhile related, the two notions are inequivalent: for example, surface groups
+  of genus at least 2 are (Poincaré) duality groups, yet they are not abelian duality
+  groups. On the other hand, using a result of Brady and Meier, we find that right-angled
+  Artin groups are abelian duality groups if and only if they are duality groups:
+  both properties are equivalent to the Cohen-Macaulay property for the presentation
+  graph.  Building on work of Davis, Januszkiewicz, Leary and Okun, hyperplane arrangement
+  complements are both duality and abelian duality spaces.  These results follow from
+  a slightly more general, cohomological vanishing theorem, part of work in progress
+  with Alex Suciu and Sergey Yuzvinsky.'
+location: CH240

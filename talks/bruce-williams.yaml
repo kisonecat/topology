@@ -1,0 +1,15 @@
+date: October 26, 2010 3:30pm
+location: CH240
+speaker: Bruce Williams
+speaker-url: http://www.nd.edu/~bruce/
+institution: University of Notre Dame
+institution-url: http://www.math.nd.edu/
+photograph: bruce-williams.jpg
+title: Family Hirzebruch Signature Theorem with Converse
+abstract: Let $X$ be a space which satisfied $4k$-dimensional Poincar\'e Duality,
+  and let $\sigma(X)$ be the signature of $X$. If $X$ is a manifold, then $\sigma(X)$
+  can be ``disassembled'', i.e. $\sigma(X)$ is determined by a local invariant, the
+  Hirzebruch $L$-polynomial. In this talk I'll give an enriched version of $\sigma(X)$
+  which is defined in all dimensions, and for dim >4, the enriched version can be
+  disassembled if and only if $X$ admits manifold structure.    There is also a family
+  version of this for fibrations

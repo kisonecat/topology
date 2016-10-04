@@ -1,0 +1,9 @@
+date: September 15, 2015 3:00pm
+speaker: Yu Tsumura
+photograph: yu-tsumura.jpg
+speaker-url: http://www.math.osu.edu/people/tsumura.2
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+title: A 2-categorical extension of the Reshetikhin-Turaev topological quantum field theory
+abstract: The Reshetikhin-Turaev TQFT is a functor from a category of 3-dimensional cobordisms to the category of vector spaces. To include surfaces with boundaries and cobordisms with corners in the RT TQFT setting, I will discuss a concrete construction of a 2-categorical extension of the RT TQFT. This extension is a 2-functor from a 2-category of cobordisms with corners to the Kapranov-Voevodsky 2-vector spaces.
+location: CH240

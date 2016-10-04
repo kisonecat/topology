@@ -1,0 +1,16 @@
+speaker: Dan Burghelea
+date: February 14, 2012 2:30pm
+location: MW154
+speaker-url: http://www.math.ohio-state.edu/~burghele/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+photograph: dan-burghelea.jpg
+title: New topological invariants for a continuous nonzero complex valued function
+abstract: 'Given a compact ANR $X$ and $f : X \to \mathbb{C} \setminus 0$ a continuous
+  map, for any $0 \leq r \leq \dim X$, one proposes three monic complex valued polynomials
+  $P_{r,s}(z)$, $P_{r,a}(z)$ and $P_{r,m}(z)$, with $\deg(P_{r,s}(z) = \beta_r(X)$
+  where $\beta_r(X)$ is the r−th Betti number, $\deg(P_{r,a}(z) = \beta_r^N(X,f)$,
+  where $\beta_r^{N}(X,f)$ is the $r$−th Novikov Betti number, $P_{r,m}(z)$ a homotopy
+  invariant of $f$. The first two are continuous assignments with respect to compact
+  open topology, the last is locally constant (on the space of continuous functions
+  with compact open topology).'

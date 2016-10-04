@@ -1,0 +1,46 @@
+mixin talk(talk)
+  div.wrapper.scrollto(id=talk.filename)
+    div.shoutout #{talk.speaker}
+    div.datebox
+      div.month.textfill #{new moment(talk.date).format('MMM')}
+      div.daynumber.textfill #{new moment(talk.date).format('DD')}
+      div.year.textfill #{new moment(talk.date).format('YYYY')}
+      div.time.textfill #{new moment(talk.date).format('h:mmA')}      
+      
+    div.talk
+      if talk.photograph
+        img.photograph(src=`${root}/people/${talk.photograph}`)
+      if talk.speaker
+        div.speaker
+          if talk.speaker_url
+            a(href=talk.speaker_url) !{clean(talk.speaker)}
+          else
+            | !{clean(talk.speaker)}
+          if talk.location
+            span.location &nbsp;in 
+              if talk.location_url
+                a(href=talk.location_url) #{talk.location}
+              else
+                if buildings[talk.location.slice(0,2)]
+                  if ((talk.location.slice(0,2) == 'CH') || (talk.location.slice(0,2) == 'MA') || (talk.location.slice(0,2) == 'MW'))
+                    a(href=buildings[talk.location.slice(0,2)].href) #{talk.location}
+                  else
+                    a(href=buildings[talk.location.slice(0,2)].href) #{buildings[talk.location.slice(0,2)].name} #{talk.location.slice(2,talk.location.length)}                
+                else
+                  | #{talk.location}
+                      
+      if talk.institution
+        div.institution
+          if talk.institution_url
+            a(href=talk.institution_url) #{talk.institution}
+          else
+            | !{clean(talk.institution)}
+  
+      if talk.title
+        div.title(evaluation="lazy") !{clean(talk.title)}
+      if talk.abstract
+        div.abstract(evaluation="lazy") !{clean(talk.abstract).replace(/\\n/g,'</div><div class="abstract">')}
+          if talk.joint
+            | This is joint work with #{talk.joint}.
+
+  div.clearing

@@ -1,0 +1,9 @@
+speaker: Dave Constantine
+photograph: dave-constantine.jpg
+speaker-url: http://dconstantine.web.wesleyan.edu/
+institution: Wesleyan University
+institution-url: http://math.wesleyan.edu/mathcs/
+title: Marked length spectrum rigidity for surfaces with all the bad properties
+abstract: Otal and Croke proved marked length spectrum rigidity for negatively curved, closed surfaces -- if you know the length of the geodesic representative for each free homotopy class, then you know the metric up to isometry. This result has been extended in several directions by loosening the requirements on the metric and -- separately -- allowing various 'bad' properties. Versions have been proven when 'negative curvature' is replaced by 'no conjugate points', or when cone point singularities are allowed, or when the metric is flat away from cone points. In this talk I'll discuss how ideas from these various arguments can be patched together to prove MLS rigidity for metrics which are non-positively with cone points; under a technical assumption, this can be extended to 'no conjugate points.'
+date: September 8, 2015 3:00pm
+location: CH240

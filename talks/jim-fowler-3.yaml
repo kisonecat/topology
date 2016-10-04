@@ -1,0 +1,18 @@
+date: February 15, 2011 3:30pm
+speaker: Jim Fowler
+location: CH240
+speaker-url: http://www.math.ohio-state.edu/~fowler/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+photograph: jim-fowler.jpg
+title: "$\\mathcal B$-bounded finiteness"
+abstract: Given a bounding class $B$, we construct a bounded refinement $BK(-)$ of
+  Quillen's $K$-theory functor from rings to spaces.  $BK(-)$ is a functor from weighted
+  rings to spaces, and is equipped with a comparison map $BK \to K$ induced by "forgetting
+  control". In contrast to the situation with $B$-bounded cohomology, there is a functorial
+  splitting $BK(-) \simeq K(-) \times BK^{rel}(-)$ where $BK^{rel}(-)$ is the homotopy
+  fiber of the comparison map. For the bounding class $P$ of polynomial functions,
+  we exhibit an element of infinite order in $PK^{rel}_0(Z[G])$ for $G$ the fundamental
+  group of a certain 3-dimensional solvmanifold.
+joint: Crichton Ogle
+paper-url: http://arxiv.org/pdf/1102.0497v2

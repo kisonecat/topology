@@ -1,0 +1,21 @@
+date: November 30, 2010 3:30pm
+speaker: Sergei Chmutov
+speaker-url: http://www.math.ohio-state.edu/~chmutov/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+photograph: sergei-chmutov.jpg
+title: Polynomials of graphs on surfaces
+abstract: The Jones polynomial of links in 3-space is a specialization of the Tutte
+  polynomial of corresponding plane graphs. There are several generalizations of the
+  Tutte polynomial to graphs embedded into a surface. Some of them are related to
+  the theory of virtual links. Although virtual link theory predicts some relations
+  between these generalizations. I will report about the results obtained in this
+  direction during my summer program "Knots and Graphs".\nIn particular I will compare
+  three polynomials of graphs on surfaces and a relative version of the Tutte polynomial
+  of planar graphs. The first polynomial, defined by M.Las Vergnas, uses a strong
+  map of the bond matroid of the dual graph to the circuit matroid of the original
+  graph. The second polynomial is the Bollobas-Riordan polynomial of a ribbon graph,
+  a straightforward generalization of the Tutte polynomial. The third polynomial,
+  due V.Krushkal, is defined using the symplectic structure in the first homology
+  group of the surface.
+location: CH240

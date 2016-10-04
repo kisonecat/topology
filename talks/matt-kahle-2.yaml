@@ -1,0 +1,21 @@
+date: September 1, 2015 3:00pm
+speaker: Matt Kahle
+photograph: matt-kahle.jpg
+speaker-url: http://matthewkahle.org/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+title: Configuration spaces of disks in an infinite strip
+abstract: "(This is joint work with Bob MacPherson.) Configurations spaces of points,
+  in $\\mathbb{R}^2$ for example, are well studied in algebraic topology. We understand
+  the homology, homotopy groups, etc., extremely well. But if the points have some
+  finite thickness, and if the region of the plane is restricted, then much less is
+  known. However this situation is quite natural from the point of view of physics---such
+  configuration spaces describe the phase space or energy landscape of a hard spheres
+  gas. As a case study, we investigate the configuration space of $n$ disks of unit
+  radius in an infinite strip of width $w$. We are especially interested in the asymptotic
+  behavior of the $k$th Betti number as $n \\to \\infty$, and we find two regimes.
+  For some choices of $(w,k)$, the $k$th Betti number grows polynomially fast, and
+  for some it grows exponentially fast. The line separating these two regimes might
+  be considered a kind of phase transition. Our main results are asymptotic estimates
+  for the Betti numbers in every case, correct up to a constant factor."
+location: CH240

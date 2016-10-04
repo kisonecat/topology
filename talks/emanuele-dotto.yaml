@@ -1,0 +1,16 @@
+speaker: Emanuele Dotto
+speaker-url: http://math.mit.edu/~dotto/
+institution: MIT
+institution-url: http://math.mit.edu/
+title: Trace methods in Real algebraic K-theory
+abstract: 'The Hermitian K-theory of a ring with an antistructure is a topological
+  group completion for the monoid of Hermitian forms on the ring. Recent work of Hesselholt
+  and Madsen describes Hermitian K-theory as the fixed points of a genuine Z/2-spectrum:
+  the Real K-theory spectrum of the ring. Their construction uses a variant of Waldhausen''s
+  Sdot construction on categories with duality. This categorical approach makes it
+  possible to construct trace maps to Real variants of THH and TC, as maps of Z/2-spectra.
+  The talk will focus on how, via the trace map, ``the equivariant Goodwillie derivative
+  of Real K-theory is Real THH.'''''
+date: December 11 2014 2:30pm
+slides: trace-methods
+location: CH240

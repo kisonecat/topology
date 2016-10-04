@@ -1,0 +1,17 @@
+date: April 26, 2011 2:30pm
+speaker: Paul Goerss
+speaker-url: http://www.math.northwestern.edu/~pgoerss/
+institution: Northwestern University
+institution-url: http://math.northwestern.edu/
+title: Picard groups in stable homotopy theory
+abstract: In any symmetric monoidal category $C$, the Picard group is the group of
+  isomorphism classes of invertible objects. For the usual stable homotopy category,
+  the only invertible objects are the sphere spectra $S^n$, with $n$ an integer. However,
+  if $E_\star$ is a good (i.e., complex-orientable) homology theory, Mike Hopkins
+  noticed that the $E$-local stable homotopy category could have a rich and curious
+  Picard group---and that this group could give information about how homotopy theory
+  of spectra reassembles from localizations. I'll review this theory, revisit some
+  of the curious examples, and report on recent calculations. This is joint work with
+  Hans-Werner Henn, Mark Mahowald, and Charles Rezk.
+location: EA295
+photograph: paul-goerss.jpg

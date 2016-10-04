@@ -1,0 +1,17 @@
+date: February 7, 2012 3:30pm
+speaker: Niles Johnson
+speaker-url: http://www.nilesjohnson.net/
+institution: University of Georgia
+institution-url: http://www.math.uga.edu/
+title: Obstruction theory for homotopical algebra maps
+abstract: We take an obstruction-theoretic approach to the question of algebraic structure
+  in homotopical settings.  At its heart, this is an application of the Bousfield-Kan
+  spectral sequence adapted for the action of a monad T on a topological model category.\nThis
+  talk will focus on the special case where T is a monad encoding E_infty structure
+  in spectra and H_infty structure in the derived category of spectra.  We will present
+  examples from rational homotopy theory illustrating the obstructions to rigidifying
+  homotopy algebra maps to strict algebra maps, and explain in a precise way how the
+  edge homomorphism of this obstruction spectral sequence measures the difference
+  between up-to-homotopy and on-the-nose T-algebra maps.
+location: CH240
+photograph: niles-johnson.jpg

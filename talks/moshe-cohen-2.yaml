@@ -1,0 +1,19 @@
+speaker: Moshe Cohen
+speaker-url: http://u.math.biu.ac.il/~cohenm10/
+institution: The Emmy Noether Mathematical Institute
+institution-url: http://u.cs.biu.ac.il/~eni/
+title: 'Kauffman''s clock lattice as a graph of perfect matchings: a formula for its
+  height.'
+abstract: " Kauffman gives a state sum formula for the Alexander polynomial of a knot
+  using states in a lattice that are connected by his clock moves.  We show that this
+  lattice is more familiarly the graph of perfect matchings of a bipartite graph obtained
+  from the knot diagram by overlaying the two dual Tait graphs of the knot diagram.\\nUsing
+  a partition of the vertices of the bipartite graph, we give a direct computation
+  for the height of Kauffman's clock lattice obtained from a knot diagram with two
+  adjacent regions starred and without crossing information specified.\\nWe prove
+  structural properties of the bipartite graph in general and mention applications
+  to Chebyshev or harmonic knots (obtaining the popular grid graph) and to discrete
+  Morse functions.\\nThis talk is accessible to those without a background in knot
+  theory.  Basic graph theory is assumed."
+date: January 22, 2013 3:00pm
+location: CH240

@@ -1,0 +1,9 @@
+speaker: Nathan Dunfield
+photograph: nathan-dunfield.jpg
+speaker-url: http://www.math.uiuc.edu/~nmd/
+institution: University of Illinois at Urbana-Champaign
+institution-url: http://www.math.uiuc.edu/
+title: Integer homology 3-spheres with large injectivity radius
+abstract: Conjecturally, the amount of torsion in the first homology group of a hyperbolic 3-manifold must grow rapidly in any exhaustive tower of covers (see Bergeron-Venkatesh and F. Calegari-Venkatesh). In contrast, the first betti number can stay constant (and zero) in such covers. Here "exhaustive" means that the injectivity radius of the covers goes to infinity. In this talk, I will explain how to construct hyperbolic 3-manifolds with trivial first homology where the injectivity radius is big almost everywhere by using ideas from Kleinian groups. I will then relate this to the recent work of Abert, Bergeron, Biringer, et. al. In particular, these examples show a differing approximation behavior for L^2 torsion as compared to L^2 betti numbers. This is joint work with Jeff Brock.
+date: February 26, 2013 3:00pm
+location: CH240

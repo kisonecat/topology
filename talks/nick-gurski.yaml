@@ -1,0 +1,13 @@
+speaker: Nick Gurski
+photograph: nick-gurski.jpg
+speaker-url: http://gurski.staff.shef.ac.uk
+institution: University of Sheffield
+institution-url: https://www.sheffield.ac.uk/maths
+title: K-theory for 2-categories
+abstract: K-theory is the machine that turns symmetric monoidal categories into spectra.  I
+  will discuss work, joint with Niles Johnson and Ang\'elica Osorno, in which we study
+  a version of K-theory in which the input is a symmetric monoidal 2-category.  My
+  ultimate goal will be to discuss our proof that symmetric monoidal 2-categories
+  model connective spectra.
+date: October 21, 2014 3:00pm
+location: CH240

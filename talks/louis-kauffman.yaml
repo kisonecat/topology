@@ -1,0 +1,9 @@
+date: January 18, 2011 3:30pm
+speaker: Louis Kauffman
+speaker-url: http://www.math.uic.edu/~kauffman/
+institution: University of Illinois at Chicago
+institution-url: http://math.uic.edu/
+photograph: louis-kauffman.jpg
+title: Virtual Knot Theory
+abstract: Virtual knot theory studies knots in thickened surfaces and has a combinatorial representation that is similar to the diagrams for classical knot theory. This talk is an introduction to virtual knot theory and an exposition of new ideas and constructions, including the parity bracket polynomial, the arrow polynomial and categorifications of the arrow polynomial. The arrow polynomial (of Dye and Kauffman) is a natural generalization of the Jones polynomial, obtained by using the oriented structure of diagrams in the state sum. We will discuss a categorification of the arrow polynomial due to Dye, Kauffman and Manturov and will give an example (from many found by Aaron Kaestner) of a pair of virtual knots that are not distinguished by Khovanov homology (mod 2), or by the arrow polynomial, but are distinguished by a categorification of the arrow polynomial.
+location: CH240

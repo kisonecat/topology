@@ -1,0 +1,19 @@
+speaker: Dan Burghelea
+photograph: dan-burghelea.jpg
+speaker-url: https://people.math.osu.edu/burghelea.1/
+institution: The Ohio State University
+institution-url: http://math.osu.edu
+title: Refinements of Betti numbers
+abstract: In this talk I will propose a refinement of the Betti numbers provided by
+  a continuous real valued map. These refinements consist of monic polynomials in
+  one variable with complex coefficients, of degree the Betti numbers. A number of
+  remarkable properties of these polynomials will be discussed.\nIn case X is a Riemannian
+  manifold these refinements can be even "more refined"; One can assign to the map
+  and each nonnegative integer a collection of mutually orthogonal subspaces of the
+  Harmonic forms = deRham cohomology in degree labelled by the zeros of the above
+  mentioned polynomials and of dimension the multiplicity of the corresponding zero.\nIf
+  the map is a Morse function the polynomials can be calculated in terms of critical
+  values of the map and the number of trajectories of the gradient of the Morse function
+  between critical points.
+date: October 7, 2014 3:00pm
+location: CH240

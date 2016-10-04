@@ -1,0 +1,21 @@
+date: April 23, 2013 3:00pm
+speaker: Christopher Davis
+speaker-url: http://www.math.osu.edu/~davis.3929/
+institution: The Ohio State University
+institution-url: http://www.math.osu.edu/
+title: Satellite operators as a group action
+abstract: Let $P$ be a knot in a solid torus, $K$ be a knot in $3$-space and $P(K)$
+  be the satellite knot of $K$ with pattern $P$.  This correspondence defines an operator,
+  the satellite operator,  on the set of knot types and induces a satellite operator
+  $P:C\to C$ on the set of smooth concordance classes of knots.  In a recent paper
+  with Tim Cochran and Arunima Ray, we show that for many patterns this map is injective.  I
+  will approach this result from a different perspective, namely by showing that satellite
+  operators really come from a group action.   In 2001, Levine studied homology cylinders
+  over a surface modulo the relation of homology cobordism as a group containing the
+  mapping class group.  We show that this group also contains satellite operators
+  and acts on an enlargement of knot concordance.  In doing so we recover the injectivity
+  result.  I will also present some preliminary results on the surjectivity of satellite
+  operators on knot concordance.
+joint: Arunima Ray of Rice University
+location: CH240
+photograph: christopher-davis.jpg

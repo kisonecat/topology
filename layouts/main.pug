@@ -1,0 +1,49 @@
+doctype html
+html(lang="en")
+  head
+    meta(http-equiv="content-type",content="text/html; charset=utf-8")
+    meta(name="keywords",content="topology,group theory,geometry,seminar,ohio state,osu,mathematics,math,lectures,talks")
+    meta(name="author",content="Jim Fowler")
+    link(rel="stylesheet",type="text/css",href=root + "/stylesheets/seminar.css",media="screen,projection")
+    link(rel="alternate",type="application/atom+xml",title="Seminar Atom Feed",href="topology.xml")
+    title Topology Seminar at The Ohio State University
+
+
+    script(type="text/javascript",src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js")
+
+    script(type="text/javascript",src=`${root}/javascripts/jquery.scrollTo.js`)
+    script(type="text/javascript",src=`${root}/javascripts/keyboard-control.js`)
+        
+    script(type="text/javascript",src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML")
+    script(type="text/x-mathjax-config")
+      | MathJax.Hub.Config({showProcessingMessages: false, tex2jax: {
+      |   inlineMath: [['$','$'],['\\(','\\)']],
+      |   displayMath: [['$$','$$'], ['\\[','\\]']] } });
+
+    script(type="text/javascript",src=`${root}/javascripts/jquery.inview.js`)
+    script(type="text/javascript",src=`${root}/javascripts/lazy-mathjax.js`)
+
+    script(type="text/javascript",src=`${root}/javascripts/jquery.stretch.js`)
+    script(type="text/javascript",src=`${root}/javascripts/stretch.js`)        
+    
+  body
+    div#header.scrollto
+      h1.textfill Topology Seminar
+      h2.textfill at The Ohio State University
+
+      if mostCommonDay && mostCommonTime && mostCommonLocation
+        p The Topology Seminar usually meets during the semester on #{mostCommonDay}s at #{mostCommonTime}, usually in 
+          if buildings[mostCommonLocation.slice(0,2)]
+            if ((mostCommonLocation.slice(0,2) == 'CH') || (mostCommonLocation.slice(0,2) == 'MA') || (mostCommonLocation.slice(0,2) == 'MW'))
+              a(href=buildings[mostCommonLocation.slice(0,2)].href) #{mostCommonLocation}
+            else
+              a(href=buildings[mostCommonLocation.slice(0,2)].href) #{buildings[mostCommonLocation.slice(0,2)].name} #{mostCommonLocation.slice(2,mostCommonLocation.length)}                
+          else
+            | #{mostCommonLocation}
+                  
+
+    block content
+    
+    div#footer
+      p &copy; #{moment(Date.now()).format('YYYY')} <a href="http://www.math.osu.edu/~fowler/">Jim Fowler</a>
+      // <a href="topology.xml"><img src="img/rss.png" alt="rss"/></a><a type="text/calendar" href="topology.ics"><img alt="ical" src="img/ical.png"/></a></p>

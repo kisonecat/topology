@@ -1,0 +1,9 @@
+speaker: Nicholas Miller
+photograph: nicholas-miller.jpg
+speaker-url: http://www.math.purdue.edu/~mille965/
+institution: Purdue University
+institution-url: http://www.math.purdue.edu/
+title: Arithmetic progressions in the primitive length spectrum
+abstract: There have been a host of prime geodesic theorems over the past several decades displaying a surprising analogy between the behavior of primitive, closed geodesics on hyperbolic manifolds and the behavior of the prime numbers in the integers.  For instance, just as the prime number theorem dictates the asymptotic growth of the number of primes less than n, there is an analogous asymptotic growth for primitive, closed geodesics of length less than n.  In this talk, I will give a brief review of the relevant definitions and go on to give the history of this analogy.  I will then discuss some recent work extending this relationship to give the geodesic analogue of the Green--Tao theorem on arithmetic progressions in the prime numbers.
+location: CH240
+date: March 1, 2016 3:00pm

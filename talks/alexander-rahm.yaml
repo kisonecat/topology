@@ -1,0 +1,9 @@
+speaker: Alexander Rahm
+photograph: alexander-rahm.jpg
+speaker-url: http://www.maths.nuigalway.ie/~rahm/
+institution: National University of Ireland at Galway
+institution-url: http://www.maths.nuigalway.ie/~rahm/
+title: Bredon homology calculation techniques
+abstract: In this talk, we will expose how to organize Bredon homology computations for a specific class of groups, with the aim of finding a useful decomposition of Bredon homology in the general case. The Bredon homology of a group allows us to obtain the equivariant K-homology of (the classifying space for proper actions of) the latter, via a spectral sequence. The Baum-Connes conjecture, which has been proved for large classes of groups, constructs an isomorphism from the equivariant K-homology of a group to the K-theory of its reduced C*-algebra. For groups like the ones where our computation is carried out, SL_2 matrix groups over rings of imaginary quadratic integers, this yields the isomorphism type of the mentioned operator K-theory, which would be very hard to compute directly.
+date: June 4, 2015 1:50pm
+location: CH240

@@ -1,0 +1,8 @@
+speaker: Matt Sequin
+date: October 21, 2011 4:30pm
+location: CH240
+speaker-url: http://www.math.osu.edu/people/sequinm
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+title: An Algebraic Proof of the Equivalence of Two Quantum 3-Manifold Invariants
+abstract: We will compare two different quantum 3-manifold invariants, both of which are given using a finite dimensional Hopf Algebra $H$. One is the Hennings invariant, given by an algorithm involving the link surgery presentation of a 3-manifold and the Drinfeld double $D(H)$; the other is the Kuperberg invariant, which is computed using a Heegaard diagram of the 3-manifold and the same $H$.  We have shown that when $H$ has the property of being involutory, these two invariants are actually equivalent.  The proof is totally algebraic and does not rely on general results involving categorical invariants. We will also briefly discuss some results in the case where $H$ is not involutory.

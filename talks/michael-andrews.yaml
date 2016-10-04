@@ -1,0 +1,17 @@
+speaker: Michael Andrews
+photograph: michael-andrews.jpg
+institution: MIT
+institution-url: http://math.mit.edu/index.php
+title: Non-nilpotent elements in motivic homotopy theory
+abstract: 'Classically, the nilpotence theorem of Devinatz, Hopkins, and Smith tells
+  us that non-nilpotent self maps on finite $p$-local spectra induce nonzero homomorphisms
+  on $\mathrm{BP}$-homology. Motivically, this theorem fails to hold: we have a motivic
+  analog of $\mathrm{BP}$ and whilst $\eta:S^{1,1}\to S^{0,0}$ induces zero on $\mathrm{BP}$-homology,
+  it is non-nilpotent. Recent work with Haynes Miller has led to a computation of
+  $\eta^{-1}\pi_{*,*}(S^{0,0})$; we found it to have a very simple description.\nI''ll
+  introduce the motivic homotopy category and the motivic Adams-Novikov spectral sequence
+  before describing this theorem. Then I''ll talk about the fact that there are more
+  periodicity operators in chromatic motivic homotopy theory than in the classical
+  story. In particular, I will describe a new non-nilpotent self map.'
+date: November 4, 2014 4:30pm
+location: Scott Labs SO E0103

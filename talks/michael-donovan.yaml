@@ -1,0 +1,9 @@
+speaker: Michael Donovan
+photograph:
+speaker-url: http://math.mit.edu/~mdono/
+institution: MIT
+institution-url: http://math.mit.edu/index.php
+title: Koszul duality and unstable spectral sequence operations
+abstract: While in the homotopy theory of simplicial algebras, the homotopy of ``spheres'' is known, the unstable Adams spectral sequence is very far from degenerate. I'll explain how various instances of Koszul duality create various unstable operations on the Adams spectral sequence, and on the composite functor spectral sequences one might use to calculate it.
+date: October 14, 2014 3:00pm
+location: CH240

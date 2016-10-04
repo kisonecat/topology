@@ -1,0 +1,17 @@
+date: March 26, 2013 3:00pm
+speaker: Charles Estill
+speaker-url: http://www.math.osu.edu/people/estill.3/view
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+title: 'Matroid Connection: Matroids for Algebraic Topology'
+abstract: In our paper "Polynomial Invariants of Graphs on Surfaces" we found a relationship
+  between two polynomials cellularly embedded in a surface, the Krushkal polynomial,
+  based on the Tutte polynomial of a graph and using data from the algebraic topology
+  of the graph and the surface, and the Las Vergnas polynomial for the matroid perspective
+  from the bond matroid of the dual graph to the circuit matroid of the graph, $\mathcal{B}(G^\ast)
+  \to \mathcal{C}(G)$.\nWith Vyacheslav Krushkal having (with D. Renardy) expanded
+  his polynomial to the $n$th dimension of a simplicial or CW decomposition of a $2n$-dimensional
+  manifold, a matroid perspective was found whose Las Vergnas polynomial would play
+  a similar role to that in the 2-dimensional case.\nWe hope that these matroids and
+  the perspective will prove useful in the study of complexes.
+location: CH240

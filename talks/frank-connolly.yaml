@@ -1,0 +1,16 @@
+date: March 15, 2011 3:30pm
+location: CH240
+speaker: Frank Connolly
+speaker-url: http://www.nd.edu/~mathwww/faculty/connolly.shtml
+institution: University of Notre Dame
+institution-url: http://www.math.nd.edu/
+photograph: frank-connolly.jpg
+title: Involutions on Tori and Topological Rigidity
+abstract: How many involutions on the $n$ torus have an isolated fixed point?\nThis
+  is a report of joint work with Jim Davis and Qayum Khan.\nWe prove  that there is
+  only one involution on the $n$-torus, $T^n$, up to conjugacy, for which the fixed
+  set contains an  isolated point.  But here, $n$ must be of the form $4k$ or $4k+1$  (or
+  else, n must be $\leq 3$).  In the other dimensions, we classify all such involutions,
+  using surgery theory and the calculation of the groups $UNil_n(Z,Z,Z).$\nWe also
+  introduce a  Topological Rigidity Conjecture and we show that the above result is
+  a consequence of it.

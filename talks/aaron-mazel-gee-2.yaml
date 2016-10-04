@@ -1,0 +1,19 @@
+speaker: Aaron Mazel-Gee
+photograph: aaron-mazel-gee.jpg
+speaker-url: http://math.berkeley.edu/~aaron/
+institution: UC Berkeley
+institution-url: http://math.berkeley.edu
+title: Goerss--Hopkins obstruction theory for $\infty$-categories
+abstract: Goerss--Hopkins obstruction theory is a tool for obtaining structured ring
+  spectra from algebraic data. It was originally conceived as the main ingredient
+  in the construction of \textit{tmf}, although it's since become useful in a number
+  of other settings, for instance in setting up a tractable theory of spectral algebraic
+  geometry and in Rognes's Galois correspondence for commutative ring spectra. In
+  this talk, I'll give some background, explain in broad strokes how the obstruction
+  theory is built, and then indicate how one might go about generalizing it to an
+  arbitrary (presentable) $\infty$-category. This last part relies on the notion of
+  a \textit{model $\infty$-category} -- that is, of an $\infty$-category equipped
+  with a ``model structure'' -- which provides a theory of resolutions internal to
+  $\infty$-categories and which will hopefully prove to be of independent interest.
+date: December 4, 2014 3:00pm
+location: SM1042

@@ -1,0 +1,16 @@
+date: March 8, 2016 3:00pm
+speaker: Michael Davis
+speaker-url: http://www.math.ohio-state.edu/~mdavis/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+photograph: mike-davis.jpg
+location: CH240
+title:  Hyperplane arrangement complements as posets of CW complexes.
+abstract: The complement of an arrangement, $A$, of a finite number of affine hyperplanes
+  in $\mathbf{C}^n$ is homotopy equivalent to a poset of CW complexes indexed by the
+  intersection poset, $L(A)$.  The subcomplex corresponding to $G\in L(A)$ is homotopy
+  equivalent to the complement of the central arrangement $A_G$ normal to $G$.  Similarly,
+  toric hyperplane arrangements have the structure of a diagram of spaces. These structure
+  can be used repair a spectral sequence argument in earlier papers by my collaborators
+  and me on the cohomology of such complements with certain local coefficients.  This
+  is joint work with Boris Okun.

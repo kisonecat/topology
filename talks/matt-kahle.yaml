@@ -1,0 +1,18 @@
+date: April 10, 2012 3:30pm
+speaker: Matt Kahle
+photograph: matt-kahle.jpg
+speaker-url: http://matthewkahle.org/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+title: Sharp vanishing thresholds for cohomology of random flag complexes
+abstract: " The random flag complex is a natural combinatorial model of random topological
+  space.  In this talk I will survey some results about the expected topology of these
+  objects, focusing on recent work which gives a sharp vanishing threshold for kth
+  cohomology with rational coefficients.\\n This recent work provides a generalization
+  of the Erdos-Renyi theorem which characterizes how many random edges one must add
+  to an empty set of n vertices before it becomes connected.  As a corollary, almost
+  all d-dimensional flag complexes have rational homology only in middle degree (d/2).\\n
+  This is topology seminar, so I will assume that people know what homology and cohomology
+  are, but I will strive to make the talk self contained and define all the necessary
+  probability as we go."
+location: CH240

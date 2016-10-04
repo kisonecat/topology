@@ -1,0 +1,19 @@
+date: March 8, 2011 3:30pm
+speaker: Crichton Ogle
+photograph: crichton-ogle.jpg
+speaker-url: http://www.math.ohio-state.edu/people/ogle/view
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+title: Hermitian K-theory of Spaces 
+abstract: A fundamental question (still unanswered) is whether certain ``periodic''
+  functors on the category of discrete groups, such as the topological $K$-theory
+  of $C^*(\pi)$ or the Witt theory of $\mathbb Z[\pi]$, can be extended to a functors
+  on the category of basepointed topological spaces which depend (rationally) on more
+  than just the fundamental group. Following earlier work of Burghelea-Fiedorowicz,
+  Fiedorowicz-Vogt, and Vogell, I will propose a model for a functor $X\mapsto AH(X)$,
+  which may be thought of as an Hermitian analogue of Waldhausen's functor $X\mapsto
+  A(X)$, and occurs as the $\mathbb Z/2$ fixed-point set of an involution defined
+  on a certain model of $A(X)$. I will also explain how a suitable $\mathbb Z/2$-equivariant
+  version of Waldhausen's splitting $Q(X_+)\to A(X)\to Q(X_+)$ verifies the Novikov
+  conjecture for $\pi_1(X)$.
+location: CH240
