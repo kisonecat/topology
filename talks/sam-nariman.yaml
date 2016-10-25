@@ -1,0 +1,9 @@
+date: November 15, 2016 3:00pm
+speaker: Sam Nariman
+speaker-url: http://www.math.northwestern.edu/people/faculty/
+institution: Northwestern University
+institution-url: http://www.math.northwestern.edu/
+photograph: sam-nariman.jpg
+title: Friedlander-Milnor's problem for diffeomorphism groups
+abstract: Let $G$ be  a finite dimensional Lie group and $G^\delta$ be the same group with discrete topology. The natural homomorphism from $G^\delta$ to $G$ induces  a continuous map from $BG^\delta$ to $BG$. Milnor conjectured that this map induces a $p$-adic equivalence.  In this talk, we discuss the same map for infinite dimensional Lie groups, in particular for diffeomorphism groups and symplectomorphisms. In these cases, we show that the map from $BG^\delta$ to $BG$ induces split surjection on cohomology with finite coefficients in "the stable range". If time permits, I will discuss applications of these results in foliation theory, in particular flat surface bundles.
+location: CH240
