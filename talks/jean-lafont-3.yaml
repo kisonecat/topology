@@ -4,6 +4,6 @@ speaker-url: http://www.math.osu.edu/~jlafont/
 institution: The Ohio State University
 institution-url: http://www.math.ohio-state.edu/
 photograph: jean-lafont.jpg
-title: TBA
-abstract:
+title: Vanishing simplicial volume for certain affine manifolds
+abstract: We show that closed aspherical manifolds supporting an affine structure, whose holonomy map is injective and contains a pure translation, must have vanishing simplicial volume. As a consequence, we verify the Chern Conjecture for complete affine manifolds whose holonomy contains a pure translation. This is joint work with Michelle Bucher (Geneva) and Chris Connell (Indiana).
 location: CH240
