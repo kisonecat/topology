@@ -51,6 +51,12 @@ file.walk( './talks', function(err, path, dirs, files) {
 	if (doc) {
 	    if (doc.date)
 		doc.date = chrono.parseDate(doc.date);
+
+	    if (doc['speaker-url'])
+		doc.speaker_url = doc['speaker-url'];
+
+	    if (doc['institution-url'])
+		doc.institution_url = doc['institution-url'];	    
 	    
 	    doc.filename = filename;
 	    
