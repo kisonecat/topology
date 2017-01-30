@@ -4,6 +4,6 @@ speaker-url: https://math.osu.edu/people/sathaye.2
 institution: The Ohio State University
 institution-url: http://www.math.ohio-state.edu/
 photograph: bakul-sathaye.jpg
-title: TBA
-abstract:  
+title: Obstruction to Riemannian smoothings of a locally CAT(0) manifold
+abstract: 'In this talk I will discuss obstructions to Riemannian smoothings of a locally CAT(0) manifold. I will focus on obstructions in dimension = 4 given by Davis-Januszkiewicz-Lafont and show how their methods can be extended to construct more examples of locally CAT(0) 4-manifolds $M$ that do not support Riemannian metric with nonpositive section curvature. Further, the universal cover of such a manifold, $\tilde M$, satisfies the isolated flats condition and contains a collection of 2-dimensional flats with the property that their boundaries at infinity form non-trivial link in $\partial^\infty \tilde M$.'
 location: CH240
