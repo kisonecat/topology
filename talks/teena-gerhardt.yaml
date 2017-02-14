@@ -4,6 +4,6 @@ speaker-url: http://users.math.msu.edu/users/teena/Home.html
 institution: Michigan State University
 institution-url: https://math.msu.edu/
 photograph: teena-gerhardt.jpg
-title: TBA
-abstract:  
+title: Computations in algebraic K-theory
+abstract: 'Algebraic K-theory brings together classical invariants of rings with homotopy groups of topological spaces. In general algebraic K-theory groups are difficult to compute, but in recent years methodsin equivariant stable homotopy theory have led to many important K-theory computations. I will introduce this approach to K-theory computations, and discuss why it is particularly useful in studying the algebraic K-theory of pointed monoid algebras. I will also present some of my recent joint work with Angeltveit on the algebraic K-theory of the group ring $\mathbb{Z}[C_2]$.'
 location: CH240
