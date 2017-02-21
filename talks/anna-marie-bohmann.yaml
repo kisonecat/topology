@@ -4,6 +4,6 @@ speaker-url: https://math.vanderbilt.edu/bohmanar/
 institution: Vanderbilt University
 institution-url: http://as.vanderbilt.edu/math/
 photograph: anna-marie-bohmann.jpg
-title: TBA
-abstract:  
+title: Some tools for understanding topological coHochschild homology
+abstract: 'Hochschild homology is a classical invariant of algebras.  A "topological" version, called THH, has important connections to algebraic K-theory, Waldhausen's A-theory, and free loop spaces.  For coalgebras, there is a dual invariant called "coHochschild homology" and Hess and Shipley have recently defined a topological version called "coTHH," which also has connections to K-theory, A-theory and free loops spaces.  In this talk, I'll talk about coTHH (and THH) are defined and then discuss work with Gerhardt, Hogenhaven, Shipley and Ziegenhagen in which we develop some computational tools for approaching coTHH.'
 location: CH240
