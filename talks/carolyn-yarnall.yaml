@@ -2,8 +2,8 @@ speaker: Carolyn Yarnall
 speaker-url: https://math.as.uky.edu/users/cmya223
 institution-url: https://math.as.uky.edu/
 institution: University of Kentucky
-title: TBA
+title: A new formulation of the slice filtration
 photograph: carolyn-yarnall.jpg
-abstract: TBA
+abstract: A common theme in mathematics is to try to understand an object by breaking it down into smaller pieces via a filtration and then study how those pieces fit together. In (stable) homotopy theory, we use the Postnikov tower to filter a space (or spectrum) by its homotopy groups. In equivariant stable homotopy theory, the slice filtration is one object that plays the role of the Postnikov tower. In this talk, I will first recall the construction of the Postnikov tower, we will then discuss some basics of equivariant stable homotopy theory, and I will describe the construction of the slice tower, highlighting a new way to better understand how this object filters G-spectra.
 date: April 11, 2017 3:00pm
 location: CH240
