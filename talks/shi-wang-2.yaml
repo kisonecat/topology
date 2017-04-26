@@ -5,5 +5,5 @@ speaker-url: https://math.indiana.edu/people/zorns/wang679.html
 institution: Indiana University
 institution-url: https://math.indiana.edu/index.html
 location: CH240
-title: TBA
-abstract:
+title: Simplicial volume of nonpositively curved manifolds
+abstract: In this talk, I will discuss the notion of simplicial volume introduced by Gromov and Thurston. For nonpositively curved manifolds, Gromov conjectured that negative Ricci curvature implies postivitity of simplicial volume. I will talk about some recent work joint with Chris Connell. We show that, under a stronger curvature condition, the simplicial volume is always positive, this answers a special case of Gromov's problem.​
