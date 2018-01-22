@@ -1,0 +1,9 @@
+date: January 23, 2018 3:00pm
+speaker: Fedor Manin
+location: CH240
+speaker-url: https://people.math.osu.edu/manin.4/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+photograph: fedor-manin.jpg
+title: Advances in quantitative homotopy theory
+abstract: 'If two finite complexes or compact manifolds are homotopy equivalent, then they are Lipschitz homotopy equivalent (in the obvious sense.) Therefore, in this context, Lipschitz homotopy invariants are a natural object of study.  More than 20 years ago, Gromov made a number of conjectures about such invariants; today we are finally equipped to tackle some of them.  The main technique is a kind of inverse to the well-known results of rational homotopy theory: it is possible to produce maps which are "close" to arbitrary DGA homomorphisms. Combined with some quantitative results about DGAs, this proves a number of results about maps from a finite complex $X$ to a finite simply connected complex $Y$, such as:\nThe number of homotopy classes in $[X,Y]$ which have an $L$-Lipschitz representative grows at most polynomially in $L$. However, pace Gromov, this is not always exactly a polynomial; in one example the growth is asymptotic to $L^8 \log L$.\nAny two homotopic $L$-Lipschitz maps $f, g:X \to Y$ are homotopic via a $C(L+1)^p$-Lipschitz map $X \times I \to Y$, where $C$ and $p$ are constants depending on $X$ and $Y$.\nMany questions remain open.  Some of this is joint work with Shmuel Weinberger.'
