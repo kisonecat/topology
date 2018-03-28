@@ -22,6 +22,7 @@ var clean = function(s) {
 	.replace( "\\'a", '&aacute;' )
 	.replace( "\\'o", '&oacute;' )
 	.replace( /\\"u/g, '&uuml;' )
+	.replace( /\\"o/g, '&ouml;' )    
 	.replace( "'", '&rsquo;' )
 	.replace( "`", '&lsquo;' )
 	.replace( /\\textit{([^}]+)}/, '<em>$1</em>' )

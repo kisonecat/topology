@@ -1,0 +1,10 @@
+date: October 17, 2017 3:00pm
+speaker: Paige North
+speaker-url: https://math.osu.edu/people/north.138
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+title: An introduction to the relationship between type theory and homotopy theory
+abstract: Martin-L\"of type theory is an alternative foundation of mathematics invented in the 1970s. It is the mathematical language used by computer proof checkers such as Coq and Agda. One peculiar feature of this language is that its notion of equality is much weaker than the normal mathematical notion of equality.\nIn the early 2000s, it was realized that the rules for this equality describe some kind of homotopy theory. In particular, these rules look a lot like the axioms for a weak factorization system. These observations have grown into a research program called Homotopy Type Theory.\nIn this talk, I will describe the basics of Martin-L\"of type theory, various models of this type theory, and how these models give rise to weak factorization systems.
+location: CH240
+ 
+ 
