@@ -1,0 +1,9 @@
+date: March 27, 2018 3:00pm
+speaker: Robert Short
+location: CH240
+speaker-url: https://math.cas2.lehigh.edu/robert-short
+institution: Lehigh University
+institution-url: https://math.cas2.lehigh.edu
+photograph: robert-short.jpg
+title: Relative Topological Complexity for Pairs of Right-Angled Artin Groups
+abstract: 'Topological complexity is a homotopy invariant introduced by Michael Farber in the early 2000s. Denoted $TC(X)$, it counts the smallest size of a continuous motion planning algorithm on X. In this sense, it solves optimally the problem of continuous motion planning in a given topological space. In topological robotics, a part of applied algebraic topology, several variants of $TC$ are studied. In a recent paper, I introduced the relative topological complexity of a pair of spaces $(X, Y )$ where $Y \subset X$. Denoted $TC(X, Y )$, this counts the smallest size of motion planning algorithms that plan from $X$ to $Y$.\nRight-angled Artin groups have grown in importance lately with their connection to braid groups and their connection to real-world robotics problems. In this talk, we will present the background needed to compute the relative topological complexity of pairs of right-angled Artin groups and hopefully discuss the details of the optimal motion planner involved.'

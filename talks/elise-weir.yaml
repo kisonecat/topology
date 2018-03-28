@@ -5,5 +5,5 @@ institution: The University of Tennessee, Knoxville
 institution-url: https://www.math.utk.edu/
 photograph: elise-weir.jpg
 title: The Dimension of the Restricted Hitchin Component for a Triangle Group
-abstract: 
+abstract: A triangle group $T(p,q,r)$ is the group of rotational symmetries of a tiling of the hyperbolic plane by geodesic triangles. We will begin by discussing a component of the representation variety of $T(p,q,r)$ in $\mathrm{PSL}(n,R)$ called the Hitchin component, noteworthy in part because representations inside are all discrete and faithful.\nFor $n = 3$, the dimension of the Hitchin component for hyperbolic triangle groups follows from a special case of work by Choi and Goldman. More recently, Long and Thistlethwaite determined its dimension for general $n \geq 3$. Our results retain this broader n-dimensional context, but focus in on those representations contained in the subgroup $G = \mathrm{SO}(m,m+1)$ or $G = \mathrm{Sp}(2m)$. In particular, we will give a formula for the dimension of this "restricted" Hitchin component for hyperbolic $T(p,q,r)$ within $G$ for all $n \geq 3$.
 location: CH240

@@ -1,0 +1,10 @@
+date: March 20, 2018 3:00pm
+speaker: Fedor Manin
+location: CH240
+speaker-url: https://people.math.osu.edu/manin.4/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+photograph: fedor-manin.jpg
+title: Quantitative homotopy theory, part 2
+abstract: "The goal of this talk will be to describe some of the methods used in my recent results in quantitative homotopy theory.  In particular, I'd like to outline the proof of the following theorem: If $X$ and $Y$ are finite metric simplicial complexes with $Y$ simply connected, then every nullhomotopic $L$-Lipschitz map $f:X \\to Y$ has a constant time nullhomotopy through $O(L^2)$-Lipschitz maps.  I will start with an introduction to the relevant aspects of rational homotopy theory and no prior knowledge in that area will be required.  The talk will be nominally independent but the context and motivation come from my Topology Seminar and Welcome Seminar talks."
+
