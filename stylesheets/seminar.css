@@ -1,0 +1,317 @@
+/*
+Original design: andreas01 (v3.0 - Apr 24, 2008) - A free xhtml/css website template by Andreas Viklund.
+For more information, see http://andreasviklund.com/templates/andreas01/
+*/
+/* Main body */
+body {
+  background: white;
+  font: 76% Verdana, Tahoma, Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+/* Basic tags */
+a {
+  font-weight: 700;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a img {
+  border: 0;
+}
+p {
+  margin: 0 0 1.4em;
+}
+/* Header */
+#header {
+  margin: 0;
+  padding: 0;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+#header h1 {
+  font-size: 3vw;
+  margin: 0 0 0pt;
+  padding-top: 10px;
+}
+#header h2 {
+  font-size: 2.15vw;
+  margin: 0 0 20pt;
+  color: #888;
+  font-weight: normal;
+}
+#content h2 {
+  font-size: 16pt;
+  margin: 0;
+  margin-left: 10%;
+  padding-top: 10pt;
+}
+/* Main content */
+div.clearing {
+  clear: both;
+}
+.wrapper {
+  position: relative;
+  padding-bottom: 20pt;
+  border-bottom: 1px solid black;
+  padding-top: 10pt;
+  padding-right: 5vw;
+  padding-left: 5vw;
+  min-width: 640px;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(1, #ffffff), color-stop(0, #f5f5f5));
+  background: -moz-linear-gradient(center bottom, #ffffff 100%, #f5f5f5 0%);
+}
+.shoutout {
+  position: absolute;
+  font-weight: bold;
+  left: 20pt;
+  text-align: center;
+  bottom: 5pt;
+  color: #CCC;
+  font-size: 15pt;
+  rotation: 90deg !important;
+  -webkit-transform: rotate(-90deg);
+  -webkit-transform-origin: 0% 100%;
+  -moz-transform: rotate(-90deg);
+  -moz-transform-origin: 0% 100%;
+  display: none;
+}
+#past {
+  background-color: #d2d2d2;
+}
+#past .wrapper {
+  background-color: #d2d2d2;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #e6e6e6), color-stop(1, #d2d2d2));
+  background: -moz-linear-gradient(center bottom, #e6e6e6 0%, #d2d2d2 100%);
+}
+div.talk {
+  margin-left: 7vw;
+  min-height: 165px;
+}
+.speaker,
+.speaker a {
+  font-size: 20pt;
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+}
+.institution,
+.institution a {
+  font-size: 10pt;
+  color: #888;
+  font-style: italic;
+  font-weight: normal;
+  text-decoration: none;
+}
+.location,
+.location a {
+  color: #BBB;
+  font-weight: normal;
+  text-decoration: none;
+}
+.title {
+  color: black;
+  margin-top: 8pt;
+  margin-bottom: 8pt;
+  font-size: 12pt;
+  font-weight: bold;
+}
+.abstract {
+  color: black;
+  padding-bottom: 8pt;
+}
+.media {
+  overflow: hidden;
+}
+div.talk a:hover {
+  text-decoration: underline;
+}
+img.photograph {
+  max-width: 128px;
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+/****************************************************************/
+/* Footer */
+#footer {
+  background: #fff;
+  padding-top: 14pt;
+  padding-bottom: 14pt;
+  padding-right: 14pt;
+  clear: both;
+  color: gray;
+  text-align: right;
+  line-height: 1.5em;
+  font-size: 0.9em;
+}
+#footer p {
+  margin: 0;
+  padding: 0;
+}
+#footer img {
+  border: 0;
+  margin-left: 10px;
+}
+#footer a {
+  color: gray;
+  font-weight: 400;
+  text-decoration: none;
+}
+#footer a:hover {
+  text-decoration: underline;
+}
+/****************************************************************/
+/* paper links */
+.mediabox p {
+  text-align: center;
+  font-size: 8pt;
+  padding-top: 4pt;
+}
+.mediabox p img {
+  vertical-align: baseline;
+}
+.mediabox {
+  float: left;
+  margin-right: 10pt;
+  margin-top: 10pt;
+  margin-bottom: 10pt;
+}
+.paper {
+  border: 1px solid black;
+  -moz-box-shadow: 3px 3px 4px #888;
+  -webkit-box-shadow: 3px 3px 4px #888;
+  box-shadow: 3px 3px 4px #888;
+  width: 160px;
+  background-color: white;
+}
+img.thumbnail {
+  width: 160px;
+}
+/****************************************************************/
+/* slideshow */
+.slideshow {
+  background-color: white;
+  height: 375px;
+  position: relative;
+  overflow: auto;
+  width: 500px;
+  border: 1px solid black;
+  -moz-box-shadow: 3px 3px 4px #888;
+  -webkit-box-shadow: 3px 3px 4px #888;
+  box-shadow: 3px 3px 4px #888;
+}
+.slideshow img {
+  background-color: white;
+}
+.left-button,
+.right-button {
+  opacity: 0.5;
+  cursor: pointer;
+  height: 72px;
+  position: absolute;
+  width: 50px;
+  display: none;
+  z-index: 9999;
+  top: 50%;
+  margin-top: -36px;
+}
+.slide_headline {
+  color: #FCF4F4;
+  font-size: 46px;
+  font-weight: bold;
+  letter-spacing: -0.04em;
+  top: 20px;
+  left: 20px;
+  position: absolute;
+}
+.slide_number {
+  color: #FCF4F4;
+  font-size: 180px;
+  font-weight: bold;
+  right: 400px;
+  top: 100px;
+  position: absolute;
+  text-align: right;
+}
+.slide_copy {
+  color: #FCF4F4;
+  left: 159px;
+  top: 111px;
+  position: absolute;
+  width: 375px;
+  line-height: 22px;
+}
+.simpleSlideStatus-tray {
+  margin: 0px auto;
+}
+.switch_button {
+  padding: 10px;
+  border: 1px solid #FCF4F4;
+  color: #FCF4F4;
+  font-weight: 900;
+  font-size: 24px;
+  display: inline;
+  cursor: pointer;
+}
+.switch_button:hover {
+  background-color: #FCF4F4;
+  color: #000000;
+}
+/****************************************************************/
+/* date stamp */
+.datebox {
+  -moz-box-shadow: 0px 0px 7px #888;
+  -webkit-box-shadow: 0px 0px 7px #888;
+  box-shadow: 0px 0px 7px #888;
+  width: 4vw;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  float: left;
+  background-color: white;
+  background: -webkit-gradient(linear, right bottom, left bottom, color-stop(0, #f2eff2), color-stop(0.76, #ffffff));
+  background: -moz-linear-gradient(right center, #f2eff2 0%, #ffffff 76%);
+}
+.daynumber,
+.month,
+.year,
+.time {
+  margin: 0;
+  padding: 0;
+  line-height: 0.90;
+  text-align: center;
+}
+.time {
+  font-size: 0.9vw;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  text-shadow: #999 1px 1px 1px;
+  line-height: 1;
+  border-top: 1px solid #DDD;
+}
+.daynumber {
+  font-weight: bold;
+  font-size: 2.75vw;
+  text-shadow: #666666 1px 1px 1px;
+}
+.month {
+  font-size: 1.5vw;
+  text-transform: uppercase;
+  background-color: red;
+  color: white;
+  padding-top: 5px;
+  padding-right: 3px;
+  padding-left: 3px;
+  padding-bottom: 3px;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #703838), color-stop(1, #ff0505));
+  background: -moz-linear-gradient(center bottom, #703838 0%, #ff0505 100%);
+}
+.year {
+  font-size: 1.5vw;
+  font-weight: light;
+  padding-bottom: 3px;
+  color: #AAA;
+  text-shadow: #CCC 1px 1px 1px;
+}
