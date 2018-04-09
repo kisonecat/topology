@@ -1,0 +1,9 @@
+date: April 19, 2018 1:50pm
+speaker: Dan Burghelea
+location: DE265
+speaker-url: http://www.math.ohio-state.edu/~burghele/
+institution: The Ohio State University
+institution-url: http://www.math.ohio-state.edu/
+photograph: dan-burghelea.jpg
+title: An alternative to Novikov-Morse theory from the perspective of topological persistence.
+abstract: A large class of flows of interest have trajectories minimizing ``actions.'' Novikov theory extends Morse theory to relate the dynamics of such a generic smooth flow (vector field with a Lyapunov closed one form with Morse zeros) on a closed smooth manifold to the underlying topology of the manifold.\nI have proposed an alternative to such theory which weakens the hypothesis  (closed manifold, closed Morse one form) to compact ANR, topological closed one form, and is computer friendly based on ``topological persistence.''  In this talk I will explain the topology behind this approach and the new invariants involved in.
