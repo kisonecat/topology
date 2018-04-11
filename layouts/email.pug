@@ -1,0 +1,57 @@
+doctype html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"
+head
+  meta(content='text/html; charset=utf-8', http-equiv='Content-Type')
+  // style(type="text/css"): include mail.css
+  body(style='padding: 0; width: 100% !important; -webkit-text-size-adjust: 100%; margin: 0; -ms-text-size-adjust: 100%;', marginheight='0', marginwidth='0')
+    p Dear all,
+    p The Topology Seminar meets #{moment(talk.date).format('MMMM Do YYYY')} at #{moment(talk.date).format('h:mma')}
+      if talk.location
+        |  in 
+        if talk.location_url
+          a(href=talk.location_url) #{talk.location}
+        else
+          if buildings[talk.location.slice(0,2)]
+            if ((talk.location.slice(0,2) == 'CH') || (talk.location.slice(0,2) == 'MA') || (talk.location.slice(0,2) == 'MW'))
+              a(href=buildings[talk.location.slice(0,2)].href) #{talk.location}
+            else
+              a(href=buildings[talk.location.slice(0,2)].href) #{buildings[talk.location.slice(0,2)].name} #{talk.location.slice(2,talk.location.length)}                
+          else
+            | #{talk.location}
+      | .
+    p Everybody is invited.
+    hr
+    dl
+      if talk.speaker
+        dt Speaker
+        dd
+          if talk.speaker_url
+            a(href=talk.speaker_url) !{clean(talk.speaker)}
+          else
+            | !{clean(talk.speaker)}
+          if talk.institution
+            if talk.institution_url
+              a(href=talk.institution_url) #{talk.institution}
+            else
+              | !{clean(talk.institution)}
+      if talk.title
+        dt Title
+        dd !{clean(tex(talk.title))}
+      if talk.date
+        dt Time
+        dd #{moment(talk.date).format('dddd, MMMM DD, YYYY')} at #{moment(talk.date).format('h:mma')}
+      if talk.location
+        dt Place
+        dd 
+          if talk.location_url
+            a(href=talk.location_url) #{talk.location}
+          else
+            if buildings[talk.location.slice(0,2)]
+              if ((talk.location.slice(0,2) == 'CH') || (talk.location.slice(0,2) == 'MA') || (talk.location.slice(0,2) == 'MW'))
+                a(href=buildings[talk.location.slice(0,2)].href) #{talk.location}
+              else
+                a(href=buildings[talk.location.slice(0,2)].href) #{buildings[talk.location.slice(0,2)].name} #{talk.location.slice(2,talk.location.length)}
+            else
+              | #{talk.location}
+      h3 Abstract
+      | !{clean(tex(talk.abstract))}
+  
