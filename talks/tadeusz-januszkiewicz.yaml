@@ -1,0 +1,8 @@
+date: April 24, 2018 1:50pm
+speaker: Tadeusz Januszkiewicz
+location: SM2186
+institution: Mathematical Institute, Polish Academy of Sciences
+institution-url: http://www.math.ohio-state.edu/
+photograph: tadeusz-januszkiewicz.jpg
+title: $k$-regular maps
+abstract: 'From topologists perspective $k$-regular maps were introduced by Karol Borsuk in the 1950s: A continuous map from $X$ to $\mathbb{R}^n$ is $k$-regular iff any set of pairwise distinct points in $X$ goes to linearly independent set of vectors. Actually $k$-regular maps were introduced by Chebyshev in XIXth century and studied in approximation and interpolation theory. There is an affine version of this concept, clearly $(k=2)$ related to embeddings. So in analogy with theory of embeddings one may ask: given $X$ and $k$, what is a minimal dimension of $\mathbb{R}^n$ receiving a $k$-regular map from $X$.\nThis question is interesting even for the case when $X=\mathbb{R}^d$. I will discuss topology used in the lower bounds for $n(d,k)$ and construction of (fairly explicit) $k$-regular maps giving upper bounds on $n(d,k)$.'
